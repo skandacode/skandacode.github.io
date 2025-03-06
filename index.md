@@ -1,10 +1,10 @@
 ---
-title: My GitHub Pages Site
+title: "Home"
 layout: default
 ---
 
-# Welcome to My GitHub Pages Site 🎉
+# Welcome to My GitHub Pages Site
 
-This is a simple static website hosted on GitHub Pages.
+This page demonstrates a simple collapsible sidebar with dropdown links.
 
-[About Page](about.md)
+Below are a few example links in the sidebar. Click them to expand or collapse their submenus.
