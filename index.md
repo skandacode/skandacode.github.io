@@ -1,10 +1,18 @@
 ---
-title: "Home"
 layout: default
+title: Home
 ---
 
-# Welcome to My GitHub Pages Site
+# Arun 'Skanda' Rebbapragada
 
-This page demonstrates a simple collapsible sidebar with dropdown links.
+## Welcome to My Portfolio
 
-Navigate using the sidebar.
+I am a high school junior passionate about robotics, programming, and research. Explore my achievements, projects, and contributions.
+
+![Profile Picture](assets/images/profile.jpg)
+
+### Quick Links:
+- [About Me](about.md)
+- [Achievements](achievements.md)
+- [Projects](projects.md)
+- [Contact](contact.md)
