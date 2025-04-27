@@ -1,28 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/styles.css' | relative_url }}">
-</head>
 <body>
 
-    <!-- Sidebar -->
-    <aside>
-        <h1><a href="{{ '/' | relative_url }}" style="color: white; text-decoration: none;">{{ site.title }}</a></h1>
+    <!-- Header with top navigation -->
+    <header>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
         <nav>
-            <a href="{{ '/about' | relative_url }}">About</a>
-            <a href="{{ '/achievements' | relative_url }}">Achievements</a>
-            <a href="{{ '/projects' | relative_url }}">Projects</a>
+            <a href="{{ '/about' | relative_url }}">About</a> |
+            <a href="{{ '/achievements' | relative_url }}">Achievements</a> |
+            <a href="{{ '/projects' | relative_url }}">Projects</a> |
             <a href="{{ '/contact' | relative_url }}">Contact</a>
         </nav>
-    </aside>
+    </header>
 
-    <!-- Main content -->
-    <main>
-        {{ content }}
-    </main>
+    <!-- Content and sidebar container -->
+    <div class="content-container">
+
+        <!-- Main content -->
+        <main id="main-content">
+            {{ content }}
+        </main>
+
+        <!-- On This Page Sidebar -->
+        <aside class="on-this-page">
+            <h2>On This Page</h2>
+            <nav id="table-of-contents">
+                <!-- Table of contents will be injected here by JS -->
+            </nav>
+        </aside>
+
+    </div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const toc = document.getElementById('table-of-contents');
+    const headings = document.querySelectorAll('#main-content h2, #main-content h3');
+
+    headings.forEach(function(heading) {
+        if (heading.id === "") {
+            heading.id = heading.textContent.toLowerCase().replace(/\s+/g, '-');
+        }
+
+        const link = document.createElement('a');
+        link.href = `#${heading.id}`;
+        link.textContent = heading.textContent;
+        toc.appendChild(link);
+    });
+});
+</script>
+
 
 </body>
-</html>
