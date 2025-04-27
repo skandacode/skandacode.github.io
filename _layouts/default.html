@@ -1,26 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ '/assets/styles.css' | relative_url }}">
 </head>
 <body>
-    <header>
-        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <nav>
-            <a href="{{ '/about.html' | relative_url }}">About</a> |
-            <a href="{{ '/achievements.html' | relative_url }}">Achievements</a> |
-            <a href="{{ '/projects.html' | relative_url }}">Projects</a> |
-            <a href="{{ '/contact.html' | relative_url }}">Contact</a>
-        </nav>
-    </header>
 
+    <!-- Sidebar -->
+    <aside>
+        <h1><a href="{{ '/' | relative_url }}" style="color: white; text-decoration: none;">{{ site.title }}</a></h1>
+        <nav>
+            <a href="{{ '/about' | relative_url }}">About</a>
+            <a href="{{ '/achievements' | relative_url }}">Achievements</a>
+            <a href="{{ '/projects' | relative_url }}">Projects</a>
+            <a href="{{ '/contact' | relative_url }}">Contact</a>
+        </nav>
+    </aside>
+
+    <!-- Main content -->
     <main>
         {{ content }}
     </main>
 
+    <!-- Footer -->
     <footer>
         <p>&copy; 2025 {{ site.author }}. All rights reserved.</p>
     </footer>
+
 </body>
 </html>

@@ -1,29 +1,89 @@
+/* Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Body + Layout */
 body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #f8f9fa;
+    display: flex;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #121212;
+    color: #e0e0e0;
 }
 
-h1 {
-    color: #333;
-}
-
-nav {
-    background-color: #007bff;
-    padding: 10px;
-    text-align: center;
-}
-
-nav a {
+/* Sidebar */
+aside {
+    width: 250px;
+    background: #1f1f1f;
     color: white;
-    margin: 0 10px;
-    text-decoration: none;
+    padding: 30px 20px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    height: 100vh;
 }
 
+aside h1 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+aside nav a {
+    display: block;
+    color: #bb86fc;
+    margin: 15px 0;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+aside nav a:hover {
+    color: #03dac6;
+}
+
+/* Main content */
+main {
+    flex-grow: 1;
+    padding: 40px;
+    background: #1f1f1f;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+/* Links inside main */
+main a {
+    color: #bb86fc;
+    text-decoration: underline;
+}
+
+main a:hover {
+    color: #03dac6;
+}
+
+/* Footer */
 footer {
     text-align: center;
-    margin-top: 50px;
-    font-size: 0.8em;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #777;
+    padding: 20px 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
 }
