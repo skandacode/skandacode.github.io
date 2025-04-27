@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found | Arun Skanda</title>
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+    <style>
+        body {
+            text-align: center;
+            padding: 100px;
+        }
+        h1 {
+            font-size: 4rem;
+            color: #bb86fc;
+        }
+        p {
+            font-size: 1.2rem;
+            margin-top: 20px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 10px 20px;
+            background: #03dac6;
+            color: #121212;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        a:hover {
+            background: #00c4b4;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>404</h1>
+    <p>Oops! The page you're looking for doesn't exist.</p>
+    <a href="{{ '/' | relative_url }}">Go Home</a>
+
+</body>
+</html>
