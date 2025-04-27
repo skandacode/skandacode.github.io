@@ -6,7 +6,7 @@ title: Contact
 # Contact Me
 
 📧 Email: [arun.skanda@outlook.com](mailto:arun.skanda@outlook.com)  
-🔗 GitHub: [skandacode](https://github.com/skandacode)  
+🔗 GitHub: [your-github-username](https://github.com/your-github-username)  
 
 
 Feel free to reach out for collaborations, research opportunities, or discussions!
