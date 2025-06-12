@@ -60,6 +60,26 @@ h1, h2, h3 {
     margin-bottom: 20px;
 }
 
+h2 {
+    border-left: 4px solid #bb86fc;
+    padding-left: 15px;
+    margin-top: 30px;
+}
+
+h3 {
+    color: #03dac6;
+    margin-top: 25px;
+}
+
+/* Emoji headings styling */
+h3[id*="academic"], h3[id*="research"], h3[id*="robotics"], h3[id*="professional"], h3[id*="competition"] {
+    background: linear-gradient(135deg, #2c2c2c, #1f1f1f);
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #03dac6;
+    margin: 20px 0;
+}
+
 /* Links inside main */
 main a {
     color: #bb86fc;
@@ -67,6 +87,67 @@ main a {
 }
 
 main a:hover {
+    color: #03dac6;
+}
+
+/* Special styling for CTA links */
+main a[href*="summary"], main a[href*="Resume"] {
+    background: linear-gradient(135deg, #bb86fc, #03dac6);
+    color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px 5px;
+    transition: all 0.3s ease;
+}
+
+main a[href*="summary"]:hover, main a[href*="Resume"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(187, 134, 252, 0.3);
+}
+
+/* List styling */
+ul {
+    margin: 15px 0;
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
+
+/* Stats section styling */
+h2 + ul li strong {
+    color: #03dac6;
+}
+
+/* Quick Links section */
+h3:contains("Quick Links") + ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+h3:contains("Quick Links") + ul li {
+    margin: 10px 0;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid #bb86fc;
+    padding-left: 15px;
+    margin: 20px 0;
+    font-style: italic;
+    color: #ccc;
+}
+
+/* Code blocks */
+code {
+    background: #2c2c2c;
+    padding: 2px 6px;
+    border-radius: 3px;
     color: #03dac6;
 }
 
@@ -87,6 +168,8 @@ img {
     margin: 20px auto;
     border-radius: 8px;
 }
+
+/* Animations */
 body {
     animation: fadeIn 1s ease-in;
 }
@@ -94,4 +177,22 @@ body {
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+    
+    aside {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    
+    main {
+        margin: 10px;
+        padding: 20px;
+    }
 }
