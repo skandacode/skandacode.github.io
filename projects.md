@@ -3,21 +3,23 @@ layout: page
 title: Projects
 ---
 
-# Technical Projects & Innovations
+# Technical Projects
 
-*For detailed project descriptions and research publications, see my [Complete Resume](summary.md)*
+*For an overview of my project descriptions and research publications, see my [summary page](summary.md)*
 
-## 🚀 **Space Technology & Research**
+## 🚀 **Space-Related R&D**
 
 ### **CubeSat Development Projects**
 **MIT Beaver Works Summer Institute - Build a CubeSat Challenge**
-- **Wildfire Tracking and Prediction from Space** (2024-2025) - Computer vision algorithms for satellite-based wildfire detection using machine learning
-- **Mudslide Detection and Impact Assessment** (2023-2024) - Terrain analysis systems using satellite imagery and GIS
+- **Wildfire Tracking and Prediction from Space** (2024-2025) 
+    - Computer vision algorithms to detect and predict wildfire movement from space using satellites. Used a machine learning model to detect where the wildfires are, and used data from multiple passes to show fire spread. Then, the program makes predictions on where the fire will spread next.  
+- **Mudslide Detection and Impact Assessment** (2023-2024) 
+    - Mapping regions that are susceptible to mudslides by using machine learning
 
-### **NASA HUNCH Micro-Rover Development** (2024)
-*Captain, Lead Designer, Programmer, and Builder*
-- **Dual Control Systems** - Remote control and computer-based radio command interface
-- **Environmental Durability** - Engineered for lunar surface conditions
+### **NASA HUNCH Micro-Rover Development** (2024-2025)
+*Captain, Lead Designer, Builder, and Programmer*
+- **Durability** - The lunar regolith is abrasive, so we made the entire body of the rover out of 1/16" aluminum. By covering every hole, we made sure to completely isolate the delicate electronics from the regolith. 
+- **Dual Control Systems** - Remote control and computer-based radio command interface. The rover can be controlled through both a Bluetooth Low Energy connected controller, or autonomously controlled through Long Range Radio. 
 - **Advanced Imaging** - High-resolution camera with real-time transmission
 - **Wireless Software Updates** - Over-the-air programming system
 
