@@ -83,7 +83,6 @@ Designed and constructed a lunar-capable rover featuring:
 ## Professional Experience
 
 ### Software Developer Intern - State Farm (Summer 2025)
-*Collaborative software development in enterprise insurance systems*
 
 - **Cloud Migration Leadership:** Successfully migrated critical application components from AWS Lambda serverless architecture to Amazon EKS (Elastic Kubernetes Service), improving system integration and scalability
 - **Professional Development Collaboration:** Worked directly with experienced software engineers on insurance policy processing systems, gaining exposure to enterprise-level software development practices
@@ -108,7 +107,6 @@ Designed and constructed a lunar-capable rover featuring:
 ## Teaching and Educational Leadership
 
 ### Primary Robotics and CAD Instructor (2022-2024)
-*Three years of comprehensive STEM education delivery*
 
 **Program Scale and Impact:**
 - **Student Reach:** Taught over 150 students across grades 3-8 in competitive robotics and computer-aided design
@@ -127,7 +125,6 @@ Designed and constructed a lunar-capable rover featuring:
 ## Application Development Projects
 
 ### Technocise Exercise Tracking Platform (2020)
-*Innovative fitness technology using computer vision*
 
 - **Computer Vision Implementation:** Utilized PoseNet machine learning framework to track human body key points in real-time
 - **Activity Recognition:** Developed algorithms to automatically count and verify squats and jumping jacks through pose analysis
@@ -270,5 +267,3 @@ Designed and constructed a lunar-capable rover featuring:
 - **Technical Competition:** USAPHO Top 300 nationally, USACO Silver qualifier, Project Euler Level 2 solver (top 4%)
 
 ---
-
-*This comprehensive resume represents a unique combination of technical excellence, research innovation, educational leadership, and cultural achievement, demonstrating exceptional preparation for advanced STEM education and research opportunities.*

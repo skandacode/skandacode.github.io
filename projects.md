@@ -5,7 +5,7 @@ title: Projects
 
 # Technical Projects
 
-*For an overview of my project descriptions and research publications, see my [summary page](summary.md)*
+*For an overview of my project descriptions and research publications, see my [complete resume](resume.md)*
 
 ## **Space-Related R&D**
 
@@ -36,7 +36,7 @@ title: Projects
 - **Web Platform** - I incorporated this into a website which is able to work on any device. Also, we added a scoreboard and a leaderboard to increase competition between students in a class. 
 - **Educational Impact** - This website was used by my school, where over 30 people used the app, with over 5000 counts recorded. 
 
-### **Sidewalk Shaper Municipal Reporting App** (2020)
+### **Sidewalk Shaper Reporting App** (2020)
 *Civic technology solution for infrastructure maintenance*
 - **MIT App Inventor Development** - I led the creation of a mobile application built using visual programming blocks, making it accessible for deployment across Android devices and available on the Google Play Store.
 - **Geolocation Integration** - The app captures real-time GPS coordinates to ensure the exact location identification of infrastructure damage for city records. This makes the whole process of finding and repairing broken sidewalks more efficient. 
@@ -74,7 +74,14 @@ title: Projects
 
     Check out the Robotics for Everyone website [HERE](https://www.roboticsforeveryone.org/models)
 
----
 
-**Interested in collaboration or have questions about any of these projects?**  
-[📧 Contact Me](contact.md) | [📄 View Complete Technical Summary](summary.md)
+### **2023: UTD Summer Lab**
+
+**Vehicle Trajectory Prediction Project**
+- Reinforcement learning for collision avoidance
+- Real-time pose estimation and object detection
+
+
+---
+ 
+[📧 Contact Me](contact.md) | [📄 View Complete Resume](resume.md)

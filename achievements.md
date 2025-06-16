@@ -5,7 +5,7 @@ title: Achievements
 
 # Key Achievements & Highlights
 
-*For a comprehensive view of all accomplishments, please see my [Complete Resume](summary.md)*
+*For a comprehensive view of all accomplishments, please see my [complete resume](resume.md)*
 
 ## 🎓 Academic Achievements
 - **Senior, RL Turner High School** (Top 1% - Rank 3/500)
@@ -57,6 +57,4 @@ title: Achievements
 
 ---
 
-*This page provides a high-level overview of key achievements. For detailed descriptions, project specifics, technical skills, and complete work history, please visit my [Complete Resume](summary.md).*
-
-[📄 **View Complete Resume →**](summary.md)
+[📄 **View Complete Resume →**](resume.md)

@@ -27,8 +27,8 @@ title: Contact
 
 ## 📄 **Resources**
 
-- [📄 Complete Resume](summary.md) - Detailed experience and accomplishments
-- [🏆 Key Achievements](achievements.md) - Major awards and recognition
-- [💻 Technical Projects](projects.md) - Portfolio of innovations and research
+- [📄 Complete Resume](resume.md)
+- [🏆 Key Achievements](achievements.md)
+- [💻 Technical Projects](projects.md)
 
 ---

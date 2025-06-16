@@ -48,10 +48,12 @@ My unique combination of technical depth, research experience, and educational l
 
 Beyond STEM, I maintain deep connections to my cultural heritage through South Indian classical music. Seven years of Carnatic vocal training and eight years of bamboo flute mastery earned me a prestigious $4,000 Texas Folklife scholarship to research the philosophical concepts in classical compositions.
 
+
 ---
 
-**Explore my journey in more detail:**
-- [🏆 Key Achievements](achievements.md) - Highlights and major accomplishments
-- [📄 Complete Resume](summary.md) - Comprehensive experience and skills
-- [💻 Projects](projects.md) - Technical projects and innovations
-- [📧 Contact](contact.md) - Get in touch
+
+**Click here to learn more:**
+- [🏆 Key Achievements](achievements.md)
+- [📄 Complete Resume](resume.md)
+- [💻 Projects](projects.md)
+- [📧 Contact](contact.md)

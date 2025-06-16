@@ -37,7 +37,7 @@ I am a high school senior passionate about robotics, programming, and research. 
 - **USA Physics Olympiad** - Top 300 nationally
 
 ### Quick Links:
-- [📄 **Complete Resume**](summary.md) - Detailed accomplishments and experience
+- [📄 Complete Resume](resume.md)
 - [👤 About Me](about.md)
 - [🏆 Achievements](achievements.md)
 - [💻 Projects](projects.md)
