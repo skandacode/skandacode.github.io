@@ -13,10 +13,10 @@ title: Contact
 
 ## 📋 **My Skills**
 
-- **Technical Expertise** - 9+ years programming experience, robotics engineering
-- **Teaching the Younger Generation** - Taught 150+ students and create interactive robotics lessons
-- **Worldwide Collaboration with people** - Mentored teams across multiple countries all over the world
-- **Publishing Research** - Experience presenting at international conferences and academic writing
+- **Technical Experience** - I have 9+ years of programming experience, and have been doing robotics for 10 years
+- **Teaching the Younger Generation** - I taught 150+ students over 3 years and create interactive robotics lessons for them
+- **Worldwide Collaboration with people** - I mentor teams across multiple countries all over the world
+- **Publishing Research** - I have experience with presenting at international conferences and academic writing
 
 ## 🎯 **Current Interests**
 

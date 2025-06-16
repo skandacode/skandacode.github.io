@@ -75,11 +75,13 @@ title: Projects
     Check out the Robotics for Everyone website [HERE](https://www.roboticsforeveryone.org/models)
 
 
-### **2023: UTD Summer Lab**
+### **2023: Pattern Discovery and Machine Learning Lab at UT Dallas**
 
-**Vehicle Trajectory Prediction Project**
-- Reinforcement learning for collision avoidance
-- Real-time pose estimation and object detection
+**Vehicle Trajectory Prediction**
+- Spent 30 hours per week for 10 weeks over the summer
+- Used Pytorch, OpenCV, and Python
+- I developed a CNN-based model in PyTorch to predict vehicle trajectories using a list of pre-generated paths. I achieved 83% accuracy out of 400+ paths.
+- I then used the predicted trajectories of surrounding vehicles to enable an autonomous car to proactively avoid collisions using reinforcement learning. The car predicts the trajectories and learns to avoid hitting the other cars. I has able to dramatically reduce the chance of a collision compared to independently choosing the best trajectory. 
 
 
 ---
