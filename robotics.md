@@ -22,5 +22,6 @@ title: Robotics Achievements
 - **Technical Competitions:** Top performer in programming, mathematics, and physics olympiads
 
 ---
+<br>
 
 [**View Complete Resume →**](resume.md)

@@ -74,6 +74,8 @@ Beyond STEM, I maintain deep connections to my cultural heritage through South I
 - **AIME Qualifier** (2025) - Highest AMC score in school's 10-year history
 - **USA Physics Olympiad** - Top 300 nationally
 
+---
+
 ### Quick Links:
 - [Complete Resume](resume.md)
 - [Robotics](robotics.md)

@@ -84,6 +84,10 @@ title: Projects
 - I then used the predicted trajectories of surrounding vehicles to enable an autonomous car to proactively avoid collisions using reinforcement learning. The car predicts the trajectories and learns to avoid hitting the other cars. I has able to dramatically reduce the chance of a collision compared to independently choosing the best trajectory. 
 
 
----
- 
-[Contact Me](contact.md) | [View Complete Resume](resume.md)
+--- 
+<br>
+
+
+[Contact Me](contact.md)
+
+[View Complete Resume](resume.md)
