@@ -15,25 +15,25 @@ With perfect standardized test scores (ACT: 36/36, PSAT: 1520/1520) and AP Schol
 
 ## Core Expertise Areas
 
-### 🤖 **Robotics & Engineering**
+### **Robotics & Engineering**
 - **9 years** of competitive robotics experience
 - **World Championship Division Winner** in FIRST Tech Challenge
 - **40+ international teams** coached and mentored
 - **NASA HUNCH Program** captain for lunar rover development
 
-### 🔬 **Research & Innovation**
+### **Research & Innovation**
 - **Only high school team** presenting at international engineering conferences
 - **3 published research papers** in additive manufacturing and educational robotics
 - **Machine learning and computer vision** algorithm development
 - **CubeSat development** for space-based environmental monitoring
 
-### 👨‍🏫 **Education & Leadership**
+### **Education & Leadership**
 - **150+ students taught** in robotics and programming
 - **$8,000+ annual revenue** generated through educational programs
 - **Community center transformation** into recognized STEM learning hub
 - **Presidential Volunteer Service Award** Gold Medal recipient
 
-### 💻 **Technical Excellence**
+### **Technical Excellence**
 - **USACO Silver Level** competitive programmer
 - **Project Euler Level 2** solver (top 4% globally)
 - **Professional internship experience** at State Farm and UT Dallas
@@ -76,6 +76,6 @@ Beyond STEM, I maintain deep connections to my cultural heritage through South I
 
 ### Quick Links:
 - [Complete Resume](resume.md)
-- [Achievements](achievements.md)
+- [Robotics](robotics.md)
 - [Projects](projects.md)
 - [Contact](contact.md)

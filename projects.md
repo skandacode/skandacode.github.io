@@ -86,4 +86,4 @@ title: Projects
 
 ---
  
-[📧 Contact Me](contact.md) | [📄 View Complete Resume](resume.md)
+[Contact Me](contact.md) | [View Complete Resume](resume.md)
