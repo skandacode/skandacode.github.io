@@ -39,7 +39,7 @@ title: Achievements
 ## Arts & Culture
 - **South Indian Classical Music** - 7+ years Carnatic vocal training
 - **Texas Folklife Apprentice** - $4,000 scholarship for cultural research
-- **Symphonic Orchestra** - Principal violinist, RL Turner High School
+- **Symphonic Orchestra** - Highest orchestra at RL Turner High School
 
 ## Leadership & Community Service
 - **Presidential Volunteer Service Award** - Gold Medal (2024)
