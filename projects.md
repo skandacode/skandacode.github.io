@@ -7,112 +7,74 @@ title: Projects
 
 *For an overview of my project descriptions and research publications, see my [summary page](summary.md)*
 
-## 🚀 **Space-Related R&D**
+## **Space-Related R&D**
 
 ### **CubeSat Development Projects**
 **MIT Beaver Works Summer Institute - Build a CubeSat Challenge**
 - **Wildfire Tracking and Prediction from Space** (2024-2025) 
-    - Computer vision algorithms to detect and predict wildfire movement from space using satellites. Used a machine learning model to detect where the wildfires are, and used data from multiple passes to show fire spread. Then, the program makes predictions on where the fire will spread next.  
+    - The satellite uses computer vision algorithms to detect and predict wildfire movement from space using satellites. Used a machine learning model to detect where the wildfires are, and used data from multiple passes to show fire spread. Then, the program makes predictions on where the fire will spread next.  
 - **Mudslide Detection and Impact Assessment** (2023-2024) 
-    - Mapping regions that are susceptible to mudslides by using machine learning
+    - The CubeSat maps regions that are susceptible to mudslides by using machine learning, and alerting ground station if any new mudslides have been detected. 
 
 ### **NASA HUNCH Micro-Rover Development** (2024-2025)
 *Captain, Lead Designer, Builder, and Programmer*
 - **Durability** - The lunar regolith is abrasive, so we made the entire body of the rover out of 1/16" aluminum. By covering every hole, we made sure to completely isolate the delicate electronics from the regolith. 
-- **Dual Control Systems** - Remote control and computer-based radio command interface. The rover can be controlled through both a Bluetooth Low Energy connected controller, or autonomously controlled through Long Range Radio. 
-- **Advanced Imaging** - High-resolution camera with real-time transmission
-- **Wireless Software Updates** - Over-the-air programming system
+- **Dual Control Systems** - Remote control and computer-based radio command interface. The rover can be controlled through both a Bluetooth Low Energy connected controller, or autonomously controlled through Long Range Radio at the 915Mhz frequency. 
+- **Wireless image capture and transmission** - Uses a high resolution camera in the M5 Stack Camera X to capture photos, and uses the built in ESP 32 as a Wifi Access point to send the images to a computer
+- **Wireless Software Updates** - Over-the-air programming system. Our rover is capable of executing python code that was transmitted over the radio. Because of this, we are able to edit files on the rover, which allows us to make software updates without even taking the rover apart. This system was inspired by the Ingenuity mission in Mars. 
 
-## 📱 **Application Development**
+    **[Link to website](https://sites.google.com/cfbmail.com/nasa-hunch-lunar-rover/designs)**
+
+
+    **[Link to latest CAD Model](https://cad.onshape.com/documents/b768e7ff74cb64a2bd957713/w/f866da644b5ce7340ff3ff36/e/6890e63dd318aa4fd2992dfc)**
+
+## **Application Development**
 
 ### **Technocise Exercise Tracking Platform** (2020)
 *Innovative fitness technology using computer vision*
-- **PoseNet Machine Learning** - Real-time human pose analysis
-- **Activity Recognition** - Automated counting and verification of exercises
-- **Web Platform** - User interface with competitive leaderboards
-- **Educational Impact** - Adopted by schools during pandemic for remote PE instruction
+- **PoseNet Machine Learning** - Real-time human pose analysis through the PoseNet library. This was used to track the key points of the body, so whenever the body did an action, like a squat or a jumping jack, it is able to detect the motion and increment a counter. This way, it eliminates the reliance of a virtual instructor supervising all of the kids. 
+- **Web Platform** - I incorporated this into a website which is able to work on any device. Also, we added a scoreboard and a leaderboard to increase competition between students in a class. 
+- **Educational Impact** - This website was used by my school, where over 30 people used the app, with over 5000 counts recorded. 
 
 ### **Sidewalk Shaper Municipal Reporting App** (2020)
 *Civic technology solution for infrastructure maintenance*
-- **MIT AppInventor Development** - Accessible mobile platform
-- **Geolocation Integration** - GPS coordinate capture for precise reporting
-- **Automated Reporting** - Email system with photographic evidence
-- **Municipal Impact** - Reduced response time and maintenance costs
+- **MIT App Inventor Development** - I led the creation of a mobile application built using visual programming blocks, making it accessible for deployment across Android devices and available on the Google Play Store.
+- **Geolocation Integration** - The app captures real-time GPS coordinates to ensure the exact location identification of infrastructure damage for city records. This makes the whole process of finding and repairing broken sidewalks more efficient. 
+- **Automated Reporting System** - The app emails photographs, GPS coordinates, and timestamp into structured reports sent directly to the city's maintenance departments. We collaborated with the city officials in Coppell and Lewisville to set up an official Sidewalk Shaper email address. 
+- **User-Friendly Interface** - The app has a simple reporting process designed for citizen engagement. This allows for more community participation and helps fix the city's infrastructure.
 
 ### **Smart Container IoT System**
 *Internet of Things tracking and monitoring solution*
-- **Raspberry Pi Integration** - Embedded systems programming
-- **DHT11 Environmental Sensing** - Temperature and humidity monitoring
-- **Cloud Connectivity** - Secure data transmission and storage
-- **Real-time Monitoring** - Web-based dashboard and alerts
+- **Global Cargo Challenge** - The device is designed to address the critical issue where 50% of damaged cargo results from temperature and humidity fluctuations that can ruin vaccines, medicines, and food products. This happens during transit or storage.
+- **Raspberry Pi Zero Integration** - Used Raspberry Pi Zero WH as the core processing unit, providing compact monitoring capabilities for individual containers.
+- **DHT11 Environmental Sensing** - The sensor allowed us to have precise temperature and humidity monitoring with detection ranges from -67°F to 122°F and humidity sensing between 5% and 95%. This ensured that our solution could be used for all containers on storage areas.
+- **Cloud Connectivity and API Integration** - Our app used an API which allowed us to have secure, real-time, data transmission as well as processing and data storage. The data is stored on a website. 
+- **Industry Collaboration** - We connected with the United Nations and FedEx for professional feedback. We also wanted their input on where this app could be implemented in the real-world.
 
-## 🔬 **Research & Publications**
+## **Research & Publications**
 
 ### **Solid Freeform Fabrication Symposium Papers** (2022-2024)
 *International Conference on Additive Manufacturing - University of Texas at Austin*
 
 **2024: "The Educational Value of 3D Printing CubeSats"**
-- Democratizing space access through cost-effective educational platforms
-- Reconfigurable 1U CubeSat architecture for student experiments
-- Modular design enabling rapid prototyping and testing
+- CubeSats only cost a few hundred dollars to manufacture, and they provide hands-on experience in 3D printing, CAD, and building, so I co-authored a paper showing the potential of CubeSats in education. 
+- I was responsible for CADing the CubeSat. I came up with a reconfigurable 1U CubeSat architecture for student experiments, meaning that the solar panels can be adjusted and put at various angles. This allows students to experiment with which orientations best fit their design. 
+- The whole CubeSat has a modular design which enables rapid prototyping and testing. 
 
 **2023: "Cost-Effective 3D Printing Solutions for Educational Robotics"**
-- Addressing high-cost barriers in competitive robotics
-- Suite of 3D printed structural components and mounting systems
-- Enabling "Robotics for Everyone" initiative
+- This paper addresses the high-cost barriers in competitive robotics. Robotics kits often cost thousands of dollars, making access extremely difficult in certain situations. 
+- We designed and open-sourced 3D printed structural components and mounting systems so that anyone with access to a 3D printer can get started with robotics. Almost anyone can access a 3D printer at their library, so this project makes learning more cost effective than other options. 
+- Whereas other kits can cost upwards of $1000, the kit that we designed costs only around $100 for the structural components. This is due to the fact that we give the CAD models directly to the customer for them to 3D print rather than mill it out of aluminum ourselves. 
 
 **2022: "Flat Pattern Simplification for Educational Manufacturing"**
-- "Robotics for All" platform development
-- Cost-effective alternatives to commercial robotics kits
-- Integration with open-source controllers and sensors
+- Cost-effective alternatives to commercial robotics kits due to the usage of flat, laser-cuttable parts that can easily be mass produced. 
+- Milling parts out of aluminum takes a lot of time and material, but simplifying the geometry to only flat parts allows a laser to quickly cut out the part, and one flat sheet of plastic can be cut into multiple parts
+- These parts form a build system that is compatible with open source electronics. The build system provides the same level of learning as a milled kit, but at a significantly lowered cost. 
+- We formed the organization Robotics for Everyone in our goal to expand robotics to different regions. The CAD models for the parts are open-sourced on the Robotics for Everyone website. 
 
-## 🤖 **Robotics Engineering**
-
-### **FIRST Tech Challenge Robot Development** (2022-2025)
-*Captain, Lead CAD Modeler, Robot Builder, and Programmer*
-- **World Championship Performance** - Division Winner, #7 globally
-- **Advanced Autonomous Systems** - Computer vision and path planning
-- **Mechanical Engineering** - Custom chassis and mechanism design
-- **Software Architecture** - Multi-threaded control systems
-
-### **Educational Robotics Platform**
-*"Robotics for All" Initiative*
-- **Curriculum Development** - Age-appropriate STEM learning modules
-- **Cost Optimization** - Affordable alternatives to commercial kits
-- **International Implementation** - 150+ students across multiple countries
-- **Scalable Design** - Modular components for various skill levels
-
-## 💻 **Programming & Algorithm Development**
-
-### **Machine Learning Projects**
-- **Vehicle Trajectory Prediction** (UT Dallas 2023) - PyTorch CNN with 83% accuracy
-- **Autonomous Vehicle Safety Systems** - Reinforcement learning for collision avoidance
-- **Computer Vision Applications** - Real-time pose estimation and object detection
-
-### **Competitive Programming Achievements**
-- **USACO Silver Level** - Advanced algorithmic problem solving
-- **Project Euler Level 2** - 63 mathematical programming problems solved
-- **Algorithm Implementation** - Data structures, dynamic programming, graph theory
-
-## 🎯 **Impact & Recognition**
-
-- **International Conference Presentations** - Only high school team at professional engineering symposium
-- **Educational Revenue Generation** - $8,000+ annually through robotics instruction
-- **Global Mentorship Reach** - 40+ teams coached across international locations
-- **Technical Excellence Recognition** - Multiple invitations to elite robotics competitions
+    Check out the Robotics for Everyone website [HERE](https://www.roboticsforeveryone.org/models)
 
 ---
-
-## 🔧 **Technical Skills Portfolio**
-
-**Programming Languages:** Python (9 years), Java (6 years), JavaScript  
-**Frameworks:** PyTorch, TensorFlow, Docker  
-**Engineering Tools:** SolidWorks (6 years), OnShape (4 years)  
-**Platforms:** Raspberry Pi, Arduino, AWS Lambda, Amazon EKS  
-
----
-
-*These projects represent a combination of independent innovation, research collaboration, and competitive excellence. Each project demonstrates practical application of advanced technical concepts while maintaining focus on educational accessibility and real-world impact.*
 
 **Interested in collaboration or have questions about any of these projects?**  
-[📧 Contact Me](contact.md) | [📄 View Complete Technical Resume](summary.md)
+[📧 Contact Me](contact.md) | [📄 View Complete Technical Summary](summary.md)

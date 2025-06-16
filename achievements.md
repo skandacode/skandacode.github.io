@@ -7,7 +7,7 @@ title: Achievements
 
 *For a comprehensive view of all accomplishments, please see my [Complete Resume](summary.md)*
 
-## 🎓 Academic Excellence
+## 🎓 Academic Achievements
 - **Senior, RL Turner High School** (Top 1% - Rank 3/500)
 - **Perfect Standardized Scores:** ACT: 36/36 | PSAT: 1520/1520
 - **AP Scholar with Distinction** - 14+ AP courses with scores of 4-5

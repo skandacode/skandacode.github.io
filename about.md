@@ -3,10 +3,6 @@ layout: page
 title: About Me
 ---
 
----
-layout: page
-title: About Me
----
 
 # About Arun 'Skanda' Rebbapragada
 
