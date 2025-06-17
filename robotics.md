@@ -10,7 +10,7 @@ title: Robotics Achievements
 - **2018-2019 Into Orbit** - We were ranked 1st and our qualifer and our semi-regionals.
 - **2019-2020 City Shaper** - We were ranked 1st place in our qualifier and won the Championship Award. We placed 3rd and regionals and won the Championship award. Unfortunately, the World Championships was canceled due to the COVID-19 pandemic.
 
----
+<br>
 
 **FIRST Tech Challenge Experience** - I have participated in 5 years of FIRST Tech Challenge as the team captain and founder of the team. I also led the design and programming sub-teams.
 - **2020-2021 Ultimate Goal** - We qualified to the regional championship after winning the first place Think Award at our qualifier. 
@@ -20,10 +20,10 @@ title: Robotics Achievements
 - **2024-2025 Into the Deep** - After our first event, we were undefeated and were ranked number 1 in the world. In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, which are the two top awards given in any event. We also had the second highest score in the world. In our interleague tournament we also won the winning alliance captain, and were subsequently ranked as number 1 in north texas. In December, we had the solo world record, which we held for over a month. At the North Texas regional competition, we won the Inspire award(Championship award), which qualified us to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. At Worlds, we were the Winning Alliance Captain and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and the Bucharest Twin Cup in Romania. 
 
 ## Robotics Stats
-- **World Ranking:** Ranked 97th in Hall of Fame globally
-- **World Championships:** We have quallified to the World Championships 4 times: Once in FIRST Lego League, and 3 times in FIRST Tech Challenge.
-- **Students Taught:** Taught over 150 students building, programming, and design.
-- **Robotics Teams Coached:** Started 15 FIRST teams over 3 years of teaching roobtics
+- **World Ranking** - Ranked 97th in Hall of Fame globally
+- **World Championships** - We have quallified to the World Championships 4 times: Once in FIRST Lego League, and 3 times in FIRST Tech Challenge.
+- **Students Taught** - Taught over 150 students building, programming, and design.
+- **Robotics Teams Coached** - Started 15 FIRST teams over 3 years of teaching roobtics
 
 ---
 <br>
