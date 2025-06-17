@@ -9,7 +9,9 @@ title: Robotics Achievements
 - **2017-2018 HydroDynamics** - First year of particatpating in robotics. We were ranked 1st in robot performance at our quaifiers and semi-regionals. We also ranked 3rd in the North Texas Region, qualifing us to the World Championships where we represented Texas. 
 - **2018-2019 Into Orbit** - We were ranked 1st and our qualifer and our semi-regionals.
 - **2019-2020 City Shaper** - We were ranked 1st place in our qualifier and won the Championship Award. We placed 3rd and regionals and won the Championship award. Unfortunately, the World Championships was canceled due to the COVID-19 pandemic.
+
 ---
+
 **FIRST Tech Challenge Experience** - I have participated in 5 years of FIRST Tech Challenge as the team captain and founder of the team. I also led the design and programming sub-teams.
 - **2020-2021 Ultimate Goal** - We qualified to the regional championship after winning the first place Think Award at our qualifier. 
 - **2021-2022 Freight Frenzy** - We won the robot game, the Control award and Inspire Award in our qualifier. We were ranked second in North Texas. 
