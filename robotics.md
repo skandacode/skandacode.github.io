@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Robotics Achievements
+title: Competitive Robotics Achievements
 ---
 
-# Competitive robotics
 ## My Robotics Journey
 **FIRST Lego League Experience** - I have participated in 3 years of FIRST Lego League as the team captain and founder of the team. 
 - **2017-2018 HydroDynamics** - First year of particatpating in robotics. We were ranked 1st in robot performance at our quaifiers and semi-regionals. We also ranked 3rd in the North Texas Region, qualifing us to the World Championships where we represented Texas. 
@@ -28,4 +27,4 @@ title: Robotics Achievements
 ---
 <br>
 
-[**View Complete Resume →**](resume.md)
+[**View My Complete Resume →**](resume.md)
