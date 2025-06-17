@@ -75,6 +75,7 @@ Beyond STEM, I maintain deep connections to my cultural heritage through South I
 - **USA Physics Olympiad** - Top 300 nationally
 
 ---
+<br>
 
 ### Quick Links:
 - [Complete Resume](resume.md)
