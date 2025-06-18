@@ -78,7 +78,7 @@ Beyond STEM, I maintain deep connections to my cultural heritage through South I
 <br>
 
 ### Quick Links:
-- [Professional Summary](summary.md)
+- [Summary of Accomplishments](summary.md)
 - [Complete Resume](resume.md)
 - [Robotics](robotics.md)
 - [Projects](projects.md)
