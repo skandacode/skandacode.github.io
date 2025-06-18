@@ -11,6 +11,14 @@ title: Summary of Accomplishments
 
 ---
 
+## Personal Philosophy & Approach
+
+I believe in making advanced STEM concepts accessible to everyone, regardless of background or resources. This philosophy drives my "Robotics for All" initiative, my community teaching efforts, and my research focus on cost-effective educational solutions. My unique combination of technical depth, research experience, and educational leadership reflects a commitment to not just personal excellence, but to lifting others through shared knowledge and mentorship.
+
+What sets me apart is not just academic achievement, but the ability to translate complex technical concepts into accessible educational programs and real-world solutions.
+
+---
+
 ## Education
 
 **Senior, RL Turner High School, Carrollton, TX**  
@@ -50,6 +58,34 @@ title: Summary of Accomplishments
 *Competition Sciences:*
 - ChemWoot
 - PhysicsWoot
+
+---
+
+## Core Expertise Areas
+
+### **Robotics & Engineering Excellence**
+- **9 years** of competitive robotics experience
+- **World Championship Division Winner** in FIRST Tech Challenge (#1 Texas, #7 Worldwide)
+- **40+ international teams** coached and mentored
+- **NASA HUNCH Program** captain for lunar rover development
+
+### **Research & Innovation Leadership**
+- **Only high school team** presenting at international engineering conferences
+- **3 published research papers** in additive manufacturing and educational robotics
+- **Machine learning and computer vision** algorithm development
+- **CubeSat development** for space-based environmental monitoring
+
+### **Education & Community Impact**
+- **150+ students taught** in robotics and programming
+- **$8,000+ annual revenue** generated through educational programs
+- **Community center transformation** into recognized STEM learning hub
+- **Presidential Volunteer Service Award** Gold Medal recipient
+
+### **Technical Excellence & Programming**
+- **USACO Silver Level** competitive programmer
+- **Project Euler Level 2** solver (top 4% globally)
+- **Professional internship experience** at State Farm and UT Dallas
+- **9+ years Python, 6+ years Java** programming experience
 
 ---
 
@@ -114,10 +150,6 @@ Designed and constructed a lunar-capable rover featuring:
 
 ---
 
-
-
----
-
 ## Application Development Projects
 
 *For detailed project descriptions and technical specifications, see my [complete projects page](projects.md)*
@@ -151,74 +183,19 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking, 
 
 ### Educational Leadership
 - **Primary Robotics Instructor:** Generated $8,000+ annually through educational programs
-- **Global Mentorship:** Coached 40+ international robotics teams
-- **Curriculum Development:** Created comprehensive robotics and CAD education programs
+- **Community Impact:** Transformed local community center into recognized STEM learning hub
+- **International Reach:** Mentored teams across multiple countries and regions
 
 ---
 
-## Academic Competitions & Recognition
+## Cultural Heritage & Artistic Pursuits
 
-**Exceptional Performance Across Multiple Disciplines**
+Beyond STEM, I maintain deep connections to my cultural heritage through South Indian classical music. Seven years of Carnatic vocal training and eight years of bamboo flute mastery earned me a prestigious $4,000 Texas Folklife scholarship to research the philosophical concepts in classical compositions.
 
-- **Physics:** USA Physics Olympiad qualification (top 300 nationally)
-- **Mathematics:** AIME qualification with highest school AMC score in 10+ years
-- **Computer Science:** USACO Silver level, top hackathon placements
-- **Programming:** Project Euler Level 2 status (top 4% globally)
+This dedication to preserving traditional art forms complements my technical work, demonstrating the importance of cultural preservation alongside technological innovation.
 
-*[View Complete Competition Details](competitions.md) | [View Computer Science Competitions](cs-competitions.md)*
+*For complete details on musical achievements and cultural contributions, see my [music & arts page](music-arts.md)*
 
 ---
 
-## Technical Skills
-
-### Programming Languages and Frameworks
-- **Python (9 years):** Advanced proficiency in data science, machine learning, web development, and automation
-- **Java (6 years):** Object-oriented programming, algorithm implementation, and competitive programming
-- **JavaScript:** Web development and interactive application creation
-- **PyTorch:** Deep learning framework for neural network development and training
-- **TensorFlow:** Machine learning platform for large-scale data processing and model deployment
-- **Docker:** Containerization technology for application deployment and development environment management
-
-### Engineering and Design Tools
-- **SolidWorks (6 years):** Professional 3D CAD modeling, assembly design, and engineering documentation
-- **OnShape (4 years):** Cloud-based CAD platform for collaborative design and manufacturing preparation
-- **Raspberry Pi:** Single-board computer programming for robotics and IoT applications
-- **GitHub:** Version control, collaborative software development, and project management
-
-### Development and Deployment
-- **AWS Lambda:** Serverless computing platform for scalable application development
-- **Amazon EKS:** Kubernetes container orchestration for enterprise application deployment
-- **MIT AppInventor:** Visual programming platform for mobile application development
-
----
-
----
-
-## Musical Arts and Cultural Heritage
-
-**Preserving and Performing Traditional and Classical Music**
-
-- **South Indian Classical Music:** 7+ years Carnatic vocal training, $4,000 Texas Folklife scholarship recipient
-- **Traditional Instruments:** 8 years bamboo flute mastery (bansuri)
-- **Western Classical:** Principal violinist in Symphonic Orchestra (4 years)
-- **Cultural Impact:** Contributing to preservation of ancient musical traditions
-
-*[View Complete Musical Journey](music-arts.md)*
-
----
-
-## Community Leadership and Service
-
-**Presidential Volunteer Service Award - Gold Medal (2024)**
-
-- **STEM Education Impact:** Taught 200+ children, founded 22+ robotics teams
-- **Competition Support:** Technical volunteer at state and regional robotics events  
-- **Educational Leadership:** Generated $8,000+ annually through robotics programs
-- **Global Mentorship:** Coached 40+ international robotics teams
-
-*[View Complete Service Record](community-service.md)*
-
----
-
-*[View Resume](resume.md) | [View Detailed Sections:](index.md)*
-*[Physics & Math Competitions](competitions.md) | [Computer Science Competitions](cs-competitions.md) | [Music & Arts](music-arts.md) | [Community Service](community-service.md) | [Robotics](robotics.md) | [Projects](projects.md)*
+*[Physics & Math Competitions](competitions.md) | [Computer Science Competitions](cs-competitions.md) | [Music & Arts](music-arts.md) | [Community Service](community-service.md) | [Robotics](robotics.md) | [Projects](projects.md) | [Complete Resume](resume.md)*
