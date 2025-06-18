@@ -92,6 +92,7 @@ title: Projects
 - **System Integration and Optimization** - Unified disparate application components into cohesive services, resulting in improved overall system efficiency and maintainability. This work involved analyzing existing system architecture and implementing solutions to reduce complexity.
 - **Professional Development** - Gained exposure to enterprise software development methodologies, version control systems, and collaborative development practices used in large-scale financial services technology.
 
+*[Back to Summary](summary.md) | [View Robotics](robotics.md) | [View CS Competitions](cs-competitions.md) | [Contact Me](contact.md)*
 
 --- 
 <br>

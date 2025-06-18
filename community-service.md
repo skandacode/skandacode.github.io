@@ -54,4 +54,4 @@ Through these programs, I've seen students who started with no technical experie
 
 ---
 
-*[Back to Resume](resume.md) | [View Music & Arts](music-arts.md) | [View Robotics](robotics.md)*
+*[Back to Summary](summary.md) | [View Music & Arts](music-arts.md) | [View Robotics](robotics.md)*

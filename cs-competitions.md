@@ -28,4 +28,4 @@ This annual hackathon brings together the best young programmers from across the
 
 ---
 
-*[Back to Resume](resume.md) | [View Physics & Math Competitions](competitions.md) | [View Projects](projects.md)*
+*[Back to Summary](summary.md) | [View Physics & Math Competitions](competitions.md) | [View Projects](projects.md)*

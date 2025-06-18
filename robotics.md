@@ -43,4 +43,4 @@ title: Competitive Robotics Achievements
 ---
 <br>
 
-*[Back to Resume](resume.md) | [View Projects](projects.md) | [View Community Service](community-service.md) | [View Competitions](competitions.md)*
+*[Back to Summary](summary.md) | [View Projects](projects.md) | [View Community Service](community-service.md) | [View Competitions](competitions.md)*

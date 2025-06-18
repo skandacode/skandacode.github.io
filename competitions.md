@@ -28,4 +28,4 @@ title: Physics & Mathematics Competitions
 
 ---
 
-*[Back to Resume](resume.md) | [View Computer Science Competitions](cs-competitions.md)*
+*[Back to Summary](summary.md) | [View Computer Science Competitions](cs-competitions.md)*
