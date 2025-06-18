@@ -81,4 +81,8 @@ Beyond STEM, I maintain deep connections to my cultural heritage through South I
 - [Complete Resume](resume.md)
 - [Robotics](robotics.md)
 - [Projects](projects.md)
+- [Physics & Math Competitions](competitions.md)
+- [Computer Science Competitions](cs-competitions.md)
+- [Music & Arts](music-arts.md)
+- [Community Service](community-service.md)
 - [Contact](contact.md)

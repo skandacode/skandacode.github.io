@@ -59,7 +59,7 @@ title: Projects
 **2024: "The Educational Value of 3D Printing CubeSats"**
 - CubeSats only cost a few hundred dollars to manufacture, and they provide hands-on experience in 3D printing, CAD, and building, so I co-authored a paper showing the potential of CubeSats in education. 
 - I was responsible for CADing the CubeSat. I came up with a reconfigurable 1U CubeSat architecture for student experiments, meaning that the solar panels can be adjusted and put at various angles. This allows students to experiment with which orientations best fit their design. 
-- The whole CubeSat has a modular design which enables rapid prototyping and testing. 
+- The whole CubeSat has a modular design which enables rapid prototyping and testing. Also, the students find it easier to assemble our CubeSat compared to designs that are fully custom and set in stone. 
 
 **2023: "Cost-Effective 3D Printing Solutions for Educational Robotics"**
 - This paper addresses the high-cost barriers in competitive robotics. Robotics kits often cost thousands of dollars, making access extremely difficult in certain situations. 
@@ -83,11 +83,15 @@ title: Projects
 - I developed a CNN-based model in PyTorch to predict vehicle trajectories using a list of pre-generated paths. I achieved 83% accuracy out of 400+ paths.
 - I then used the predicted trajectories of surrounding vehicles to enable an autonomous car to proactively avoid collisions using reinforcement learning. The car predicts the trajectories and learns to avoid hitting the other cars. I has able to dramatically reduce the chance of a collision compared to independently choosing the best trajectory. 
 
+## **Professional Experience**
+
+### **Software Developer Intern - State Farm** (Summer 2025)
+*Enterprise-level software development and cloud migration*
+- **AWS Lambda to EKS Migration** - Successfully migrated critical application components from AWS Lambda serverless architecture to Amazon EKS (Elastic Kubernetes Service). This migration improved system integration capabilities and enhanced scalability for insurance policy processing systems.
+- **Enterprise Software Development** - Collaborated directly with experienced software engineers on production insurance policy processing systems, gaining hands-on experience with enterprise-level software development practices and industry standards.
+- **System Integration and Optimization** - Unified disparate application components into cohesive services, resulting in improved overall system efficiency and maintainability. This work involved analyzing existing system architecture and implementing solutions to reduce complexity.
+- **Professional Development** - Gained exposure to enterprise software development methodologies, version control systems, and collaborative development practices used in large-scale financial services technology.
+
 
 --- 
 <br>
-
-
-[Contact Me](contact.md)
-
-[View Complete Resume](resume.md)

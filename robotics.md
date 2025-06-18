@@ -18,6 +18,22 @@ title: Competitive Robotics Achievements
 - **2023-2024 CenterStage** - We won our inter-league tournament, and won the motivate award(Helping others pursue STEM) in the regional competition. At the Texas State Championship we won the control award(Software algorithms), which qualified us to the World Championships. We qualified for the Maryland Tech Invitational in Johns Hopkins. 
 - **2024-2025 Into the Deep** - After our first event, we were undefeated and were ranked number 1 in the world. In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, which are the two top awards given in any event. We also had the second highest score in the world. In our interleague tournament we also won the winning alliance captain, and were subsequently ranked as number 1 in north texas. In December, we had the solo world record, which we held for over a month. At the North Texas regional competition, we won the Inspire award(Championship award), which qualified us to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. At Worlds, we were the Winning Alliance Captain and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and the Bucharest Twin Cup in Romania. 
 
+## Teaching and Educational Leadership
+
+### Primary Robotics and CAD Instructor (2022-2024)
+
+**Program Scale and Impact:**
+- **Student Reach:** Taught over 150 students across grades 3-8 in competitive robotics and computer-aided design
+- **Revenue Generation:** Raised over $8,000 annually through structured weekly educational programs
+- **Global Mentorship:** Coached and mentored over 40 robotics teams across international locations
+- **Team Development:** Founded 22 competitive robotics teams that achieved multiple awards in North Texas regional competitions
+
+**Curriculum Development and Delivery:**
+- **Beginner Classes:** Comprehensive one-hour Saturday sessions covering mechanical systems (gears, motors), basic programming concepts, and fundamental robot movement and control
+- **Intermediate Classes:** Specialized FIRST Lego League (FLL) preparation focusing on advanced programming, strategic game play, and team collaboration
+- **CAD Education:** Pioneered OnShape computer-aided design curriculum covering part studios, assemblies, and technical drawing preparation for FIRST Tech Challenge participation
+- **Progressive Learning:** Structured curriculum progression from basic mechanical concepts to advanced engineering design principles
+
 ## Robotics Stats
 - **World Ranking** - Ranked 97th in Hall of Fame globally
 - **World Championships** - We have quallified to the World Championships 4 times: Once in FIRST Lego League, and 3 times in FIRST Tech Challenge.
@@ -27,4 +43,4 @@ title: Competitive Robotics Achievements
 ---
 <br>
 
-[**View My Complete Resume →**](resume.md)
+*[Back to Resume](resume.md) | [View Projects](projects.md) | [View Community Service](community-service.md) | [View Competitions](competitions.md)*
