@@ -58,5 +58,3 @@ Presidential Volunteer Service Award and educational leadership
 Get in touch for collaboration or opportunities
 
 ---
-
-*"Innovation happens when technical excellence meets educational passion"*
