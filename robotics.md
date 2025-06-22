@@ -41,6 +41,17 @@ title: Competitive Robotics Achievements
 - **Robotics Teams Coached** - Started 15 FIRST teams over 3 years of teaching roobtics
 
 ---
-<br>
 
-*[Back to Summary](summary.md) | [View Projects](projects.md) | [View Community Service](community-service.md) | [View Competitions](competitions.md)*
+## Quick Navigation
+
+### **[Back to Summary](summary.md)**
+{: .nav-card}
+
+### **[View Projects](projects.md)**
+{: .nav-card}
+
+### **[View Community Service](community-service.md)**
+{: .nav-card}
+
+### **[View Competitions](competitions.md)**
+{: .nav-card}

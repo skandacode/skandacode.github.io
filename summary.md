@@ -8,7 +8,7 @@ title: Summary of Accomplishments
 **Address:** 10106 Norman Ct, Irving TX 75063  
 **Phone:** (214) 400-7163  
 **Email:** arun.skanda@outlook.com
-
+<br>
 ---
 
 ## Personal Philosophy & Approach
@@ -17,6 +17,7 @@ I believe in making advanced STEM concepts accessible to everyone, regardless of
 
 What sets me apart is not just academic achievement, but the ability to translate complex technical concepts into accessible educational programs and real-world solutions.
 
+<br>
 ---
 
 ## Education
@@ -124,7 +125,7 @@ Designed and constructed a lunar-capable rover featuring:
 - **Communication Systems:** Radio frequency communication protocols for reliable data transmission
 
 *For detailed technical specifications and impact analysis, see my [complete projects page](projects.md)*
-
+<br>
 ---
 
 ## Professional Experience
@@ -162,7 +163,7 @@ Civic technology solution using GPS integration and automated reporting to strea
 
 ### Smart Container IoT System
 Raspberry Pi-based environmental monitoring solution for global cargo tracking, addressing temperature and humidity fluctuations in transit.
-
+<br>
 ---
 
 ## Competitive Robotics Excellence
@@ -195,7 +196,28 @@ Beyond STEM, I maintain deep connections to my cultural heritage through South I
 This dedication to preserving traditional art forms complements my technical work, demonstrating the importance of cultural preservation alongside technological innovation.
 
 *For complete details on musical achievements and cultural contributions, see my [music & arts page](music-arts.md)*
-
+<br>
 ---
+<br>
+## Quick Navigation
 
-*[Physics & Math Competitions](competitions.md) | [Computer Science Competitions](cs-competitions.md) | [Music & Arts](music-arts.md) | [Community Service](community-service.md) | [Robotics](robotics.md) | [Projects](projects.md) | [Complete Resume](resume.md)*
+### **[Physics & Math Competitions](competitions.md)**
+{: .nav-card}
+
+### **[Computer Science Competitions](cs-competitions.md)**
+{: .nav-card}
+
+### **[Music & Arts](music-arts.md)**
+{: .nav-card}
+
+### **[Community Service](community-service.md)**
+{: .nav-card}
+
+### **[Robotics](robotics.md)**
+{: .nav-card}
+
+### **[Projects](projects.md)**
+{: .nav-card}
+
+### **[Complete Resume](resume.md)**
+{: .nav-card}

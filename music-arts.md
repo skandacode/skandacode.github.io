@@ -31,4 +31,10 @@ Contributing to preservation and transmission of ancient musical traditions thro
 
 ---
 
-*[Back to Summary](summary.md) | [View Community Service](community-service.md)*
+## Quick Navigation
+
+### **[Back to Summary](summary.md)**
+{: .nav-card}
+
+### **[View Community Service](community-service.md)**
+{: .nav-card}

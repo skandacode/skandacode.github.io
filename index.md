@@ -25,27 +25,36 @@ With high standardized test scores (ACT: 36/36 (superscore), PSAT: 1520/1520) an
 I believe in making advanced STEM concepts accessible to everyone, regardless of background or resources. This mindset drives my "Robotics for Everyone" initiative, my community teaching efforts, and my focus on researching cost-effective solutions for teaching robotics.
 
 Beyond STEM, I maintain connections to my cultural heritage through South Indian classical Karnatic music, earning a $4,000 Texas Folklife scholarship for my dedication to preserving traditional art forms.
-
+<br>
 ---
 
 ## Explore My Work
 
 ### **[Summary of Accomplishments](summary.md)**
+{: .nav-card}
 
 ### **[Complete Resume](resume.md)**
+{: .nav-card}
 
 ### **[Robotics Journey](robotics.md)**
+{: .nav-card}
 
 ### **[Research & Projects](projects.md)**
+{: .nav-card}
 
 ### **[Academic Competitions](competitions.md)**
+{: .nav-card}
 
 ### **[Computer Science Competitions](cs-competitions.md)**
+{: .nav-card}
 
 ### **[Music & Arts](music-arts.md)**
+{: .nav-card}
 
 ### **[Community Service](community-service.md)**
+{: .nav-card}
 
 ### **[Contact Information](contact.md)**
+{: .nav-card}
 
 ---

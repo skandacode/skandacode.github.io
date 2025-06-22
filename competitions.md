@@ -28,4 +28,10 @@ title: Physics & Mathematics Competitions
 
 ---
 
-*[Back to Summary](summary.md) | [View Computer Science Competitions](cs-competitions.md)*
+## Quick Navigation
+
+### **[Back to Summary](summary.md)**
+{: .nav-card}
+
+### **[View Computer Science Competitions](cs-competitions.md)**
+{: .nav-card}

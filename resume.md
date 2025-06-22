@@ -12,4 +12,16 @@ View my complete, up-to-date resume below:
 
 ---
 
-*[Back to Summary](summary.md) | [View Projects](projects.md) | [View Robotics](robotics.md) | [Contact Me](contact.md)*
+## Quick Navigation
+
+### **[Back to Summary](summary.md)**
+{: .nav-card}
+
+### **[View Projects](projects.md)**
+{: .nav-card}
+
+### **[View Robotics](robotics.md)**
+{: .nav-card}
+
+### **[Contact Me](contact.md)**
+{: .nav-card}
