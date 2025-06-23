@@ -13,10 +13,9 @@ title: Summary of Accomplishments
 
 ## Personal Philosophy & Approach
 
-I believe in making advanced STEM concepts accessible to everyone, regardless of background or resources. This philosophy drives my "Robotics for All" initiative, my community teaching efforts, and my research focus on cost-effective educational solutions. My unique combination of technical depth, research experience, and educational leadership reflects a commitment to not just personal excellence, but to lifting others through shared knowledge and mentorship.
+I believe that access to STEM and robotics shouldn’t be limited to a select few — they should be accessible to everyone, no matter their background or resources. That belief is what drives everything I do, from my "Robotics for Everyone" initiative to the workshops I lead in my community and my focus on developing low-cost, practical solutions for STEM education.
 
-What sets me apart is not just academic achievement, but the ability to translate complex technical concepts into accessible educational programs and real-world solutions.
-
+What sets me apart isn’t just academic performance. it's the way I connect technical, hands-on work with a real-world impact. Whether it’s mentoring students or working on research projects, I’m always focused on helping others grow through hands-on learning, shared knowledge, and mentorship. My goal isn’t just to push the boundaries of what I can achieve, but to make sure others can come along for the journey too.
 <br>
 ---
 
@@ -74,11 +73,11 @@ What sets me apart is not just academic achievement, but the ability to translat
 - **Only high school team** presenting at international engineering conferences
 - **3 published research papers** in additive manufacturing and educational robotics
 - **Machine learning and computer vision** algorithm development
-- **CubeSat development** for space-based environmental monitoring
+- **CubeSat development** for space-based tracking of environmental damages
 
 ### **Education & Community Impact**
 - **150+ students taught** in robotics and programming
-- **$8,000+ annual revenue** generated through educational programs
+- **$8,000+ annual revenue** generated through teaching robotics
 - **Community center transformation** into recognized STEM learning hub
 - **Presidential Volunteer Service Award** Gold Medal recipient
 
@@ -99,7 +98,7 @@ What sets me apart is not just academic achievement, but the ability to translat
 
 **Three Published Research Papers:**
 - **2024:** "The Educational Value of 3D Printing CubeSats" - Reconfigurable satellite architecture for student experiments
-- **2023:** "Cost-Effective 3D Printing Solutions for Educational Robotics" - Open-source structural components reducing costs from $1000+ to ~$100
+- **2023:** "Cost-Effective 3D Printing Solutions for Educational Robotics" - Open-source structural components reducing costs of robotics kits from $1000+ to ~$100
 - **2022:** "Flat Pattern Simplification for Educational Manufacturing" - Laser-cuttable robotics platform through "Robotics for Everyone" initiative
 
 *For detailed technical specifications and impact analysis, see my [complete projects page](projects.md)*
@@ -156,7 +155,7 @@ Designed and constructed a lunar-capable rover featuring:
 *For detailed project descriptions and technical specifications, see my [complete projects page](projects.md)*
 
 ### Technocise Exercise Tracking Platform (2020)
-Computer vision-based fitness tracking using PoseNet machine learning for real-time human pose analysis. Deployed at school with 30+ users and 5000+ exercise counts recorded.
+Computer vision-based fitness tracking using PoseNet machine learning for real-time human pose analysis. Used at school with 30+ users and 5000+ exercise counts recorded.
 
 ### Sidewalk Shaper Municipal Reporting App (2020)
 Civic technology solution using GPS integration and automated reporting to streamline municipal infrastructure maintenance processes.
@@ -191,9 +190,7 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking, 
 
 ## Cultural Heritage & Artistic Pursuits
 
-Beyond STEM, I maintain deep connections to my cultural heritage through South Indian classical music. Seven years of Carnatic vocal training and eight years of bamboo flute mastery earned me a prestigious $4,000 Texas Folklife scholarship to research the philosophical concepts in classical compositions.
-
-This dedication to preserving traditional art forms complements my technical work, demonstrating the importance of cultural preservation alongside technological innovation.
+Beyond my work in STEM, I’ve stayed connected to my cultural roots through South Indian classical music. I’ve been learning Carnatic vocal music for 7 years and have spent 8 years on the bamboo flute. I also earned a $4,000 Texas Folklife scholarship that allowed me to explore the philosophical ideas in classical compositions.
 
 *For complete details on musical achievements and cultural contributions, see my [music & arts page](music-arts.md)*
 <br>
