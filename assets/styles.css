@@ -64,20 +64,16 @@ h2 {
     border-left: 4px solid #bb86fc;
     padding-left: 15px;
     margin-top: 30px;
-}
-
-h3 {
-    color: #03dac6;
-    margin-top: 25px;
-}
-
-/* Emoji headings styling */
-h3[id*="academic"], h3[id*="research"], h3[id*="robotics"], h3[id*="professional"], h3[id*="competition"] {
     background: linear-gradient(135deg, #2c2c2c, #1f1f1f);
     padding: 15px;
     border-radius: 8px;
     border-left: 4px solid #03dac6;
     margin: 20px 0;
+}
+
+h3 {
+    color: #03dac6;
+    margin-top: 25px;
 }
 
 /* Navigation card styling for all main navigation links */

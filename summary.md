@@ -8,6 +8,7 @@ title: Summary of Accomplishments
 **Phone:** (214) 400-7163  
 **Email:** arun.skanda@outlook.com
 <br>
+
 ---
 
 ## Personal Philosophy & Approach
