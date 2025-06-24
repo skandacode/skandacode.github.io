@@ -28,3 +28,4 @@ Contributing to preservation and transmission of ancient musical traditions thro
 
 ### Advanced String Technique
 **Four years of violin study** - Developed advanced string technique and ensemble performance skills. Training includes solo repertoire, chamber music, and large ensemble performance across multiple musical periods and styles.
+<br>

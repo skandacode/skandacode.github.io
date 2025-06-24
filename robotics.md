@@ -40,5 +40,8 @@ title: Competitive Robotics Achievements
 - **Students Taught** - Taught over 150 students building, programming, and design.
 - **Robotics Teams Coached** - Started 15 FIRST teams over 3 years of teaching roobtics
 
-### **[View Competitions](competitions.md)**
+### [View Other Competitions](competitions.md)
 {: .nav-card}
+
+
+<br>

@@ -24,3 +24,4 @@ title: Contact
 - **Increasing the Accessibility of Robotics** - Making STEM accessible through cost-effective solutions
 - **Computer Vision** - Utilizing data from camera streams to guide decision making in autonomous robots
 - **Manufacturing** - Applications of 3D printing in education and research
+<br>

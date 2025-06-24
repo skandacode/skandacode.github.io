@@ -91,3 +91,4 @@ title: Projects
 - **Enterprise Software Development** - Collaborated directly with experienced software engineers on production insurance policy processing systems, gaining hands-on experience with enterprise-level software development practices and industry standards.
 - **System Integration and Optimization** - Unified disparate application components into cohesive services, resulting in improved overall system efficiency and maintainability. This work involved analyzing existing system architecture and implementing solutions to reduce complexity.
 - **Professional Development** - Gained exposure to enterprise software development methodologies, version control systems, and collaborative development practices used in large-scale financial services technology.
+<br>
