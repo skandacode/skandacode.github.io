@@ -3,8 +3,6 @@ layout: page
 title: Projects
 ---
 
-# Technical Projects
-
 *For an overview of my project descriptions and research publications, see my [complete resume](resume.md)*
 
 ## **Space-Related R&D**

@@ -3,8 +3,6 @@ layout: page
 title: Physics & Mathematics Competitions
 ---
 
-# Physics & Mathematics Competitions
-
 ## Physics Competitions
 
 ### USA Physics Olympiad (USAPHO) 2025

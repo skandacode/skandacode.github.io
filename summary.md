@@ -3,8 +3,6 @@ layout: page
 title: Summary of Accomplishments
 ---
 
-# Arun 'Skanda' Rebbapragada
-
 **Phone:** (214) 400-7163  
 **Email:** arun.skanda@outlook.com
 <br>

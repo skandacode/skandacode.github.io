@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Community Service & Volunteerism
+title: Community Service
 ---
-
-# Community Service and Volunteerism
 
 ## Presidential Recognition
 

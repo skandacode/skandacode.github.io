@@ -3,8 +3,6 @@ layout: page
 title: Computer Science Competitions
 ---
 
-# Computer Science & Programming Competitions
-
 ## Algorithmic Programming Competitions
 
 ### USACO (USA Computing Olympiad)

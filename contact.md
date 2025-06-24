@@ -3,8 +3,6 @@ layout: page
 title: Contact
 ---
 
-# Contact Me
-
 ## **Get in Touch**
 
 **Email:** [arun.skanda@outlook.com](mailto:arun.skanda@outlook.com)  

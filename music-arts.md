@@ -3,8 +3,6 @@ layout: page
 title: Music & Arts
 ---
 
-# Musical Arts and Cultural Values
-
 ## South Indian Classical Music (2016-Present)
 
 ### Carnatic Vocal Performance
