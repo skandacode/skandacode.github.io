@@ -106,8 +106,9 @@ li {
     line-height: 1.6;
 }
 
-/* Stats section styling */
-h2 + ul li strong {
+/* Bold text styling */
+strong,
+li strong {
     color: #03dac6;
 }
 
