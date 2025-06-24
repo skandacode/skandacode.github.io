@@ -25,7 +25,7 @@ What sets me apart isn’t just academic performance. it's the way I connect tec
 
 ### Advanced Coursework
 
-AP Classes & UT OnRamps Dual Enrollment:
+**AP Classes & UT OnRamps Dual Enrollment:**
 - AP Biology (Score: 5, Grade 9)
 - AP Human Geography (Score: 4, Grade 9)
 - AP Chemistry (Score: 5, Grade 10)
@@ -43,7 +43,7 @@ AP Classes & UT OnRamps Dual Enrollment:
 
 **Art of Problem Solving Courses:**
 
-*Math Courses:*
+Math Courses:
 - Introduction to Counting and Probability
 - Introduction to Geometry
 - Introduction to Number Theory
