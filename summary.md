@@ -16,7 +16,6 @@ I believe that access to STEM and robotics shouldn’t be limited to a select fe
 
 What sets me apart isn’t just academic performance. it's the way I connect technical, hands-on work with a real-world impact. Whether it’s mentoring students or working on research projects, I’m always focused on helping others grow through hands-on learning, shared knowledge, and mentorship. My goal isn’t just to push the boundaries of what I can achieve, but to make sure others can come along for the journey too.
 <br>
----
 
 ## Education
 
@@ -97,7 +96,6 @@ Designed, constructed, and presented a lunar rover featuring:
 
 *For detailed technical specifications, see my [complete projects page](projects.md)*
 <br>
----
 
 ## Professional Experience
 
@@ -116,8 +114,7 @@ Designed, constructed, and presented a lunar rover featuring:
 **Pattern Discovery and Machine Learning Laboratory**
 - **Vehicle Trajectory Prediction:** Developed and implemented a PyTorch-based Convolutional Neural Network to predict vehicle movement patterns with 83% accuracy
 - **Autonomous Vehicle Safety:** Created reinforcement learning algorithms to enable autonomous vehicles to avoid collisions by anticipating other vehicles' trajectories
-
----
+<br>
 
 ## Application Development Projects
 
@@ -132,7 +129,6 @@ Civic technology solution using GPS integration and automated reporting to strea
 ### Smart Container IoT System
 Raspberry Pi-based environmental monitoring solution for global cargo tracking, addressing temperature and humidity fluctuations in transit.
 <br>
----
 
 ## Competitive Robotics
 
