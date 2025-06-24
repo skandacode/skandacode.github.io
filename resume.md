@@ -3,7 +3,6 @@ layout: page
 title: Complete Resume
 ---
 
-# Complete Resume
 
 View my complete, up-to-date resume below:
 
