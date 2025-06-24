@@ -17,8 +17,6 @@ title: Music & Arts
 ### Cultural Preservation Impact
 Contributing to preservation and transmission of ancient musical traditions through performance and research. Carnatic music represents over 1,000 years of musical evolution and philosophical inquiry, serving as a bridge between ancient wisdom and contemporary artistic expression.
 
----
-
 ## Western Classical Music
 
 ### Symphonic Orchestra (2020-Present)

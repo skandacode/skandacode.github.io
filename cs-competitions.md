@@ -11,8 +11,6 @@ title: Computer Science Competitions
 ### Project Euler
 **Level 2 Solver Status** - Achieved Level 2 solver status (top 4% of all global users) by solving 63 math-based programming problems. Project Euler challenges programmers with mathematical problems that require both mathematical insight and programming skills.
 
----
-
 ## Hackathons & Programming Contests
 
 ### Battle of Brains Hackathon Dallas

@@ -7,8 +7,6 @@ title: Summary of Accomplishments
 **Email:** arun.skanda@outlook.com
 <br>
 
----
-
 ## Personal Philosophy & Approach
 
 I believe that access to STEM and robotics shouldn’t be limited to a select few — they should be accessible to everyone, no matter their background or resources. That belief is what drives everything I do, from my "Robotics for Everyone" initiative to the workshops I lead in my community and my focus on developing low-cost, practical solutions for STEM education.
@@ -57,8 +55,6 @@ AP Classes & UT OnRamps Dual Enrollment:
 - PhysicsWoot
 
 <br>
-
----
 
 ## Research Experience & Publications
 
@@ -148,8 +144,6 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking, 
 - **Community Impact:** Transformed local community center into recognized STEM learning hub
 - **International Reach:** Mentored teams across multiple countries and regions
 - **Teaching Impact:** Founded and coached 22+ competitive robotics teams, taught 150+ students
-
----
 
 ## Cultural Heritage
 

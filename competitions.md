@@ -8,8 +8,6 @@ title: Physics & Mathematics Competitions
 ### USA Physics Olympiad (USAPHO) 2025
 **Qualified for national competition** - Placed in top 300 students nationwide through rigorous f=ma examination. The USA Physics Olympiad is one of the most prestigious physics competitions in the United States, serving as the pathway to the International Physics Olympiad team selection.
 
----
-
 ## Mathematics Competitions
 
 ### AIME Qualification (2025)

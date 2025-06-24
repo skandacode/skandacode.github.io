@@ -8,8 +8,6 @@ title: Community Service
 ### Presidential Volunteer Service Award
 **Gold Medal (2024)** - Highest level of national recognition for volunteer service, awarded by the President of the United States in recognition of outstanding volunteer service and commitment to strengthening communities across America.
 
----
-
 ## STEM Education & Mentorship
 
 ### Community Center STEM Education (2023-2025)
@@ -27,9 +25,6 @@ title: Community Service
 - Taught 150+ students across multiple age groups
 - Founded and coached 22+ competitive robotics teams
 - Provided global mentorship to 40+ international robotics teams
-
----
-
 ## Competition Support & Volunteering
 
 ### FIRST Tech Challenge Community Support (2024-2025)
@@ -41,8 +36,6 @@ title: Community Service
 - **Competition Operations:** Ensure smooth tournament operations serving 500+ participants per event
 
 **Impact:** Help create positive competitive experiences that inspire students to pursue STEM careers while maintaining the cooperative spirit that defines FIRST programs.
-
----
 
 ## Community Impact Philosophy
 
