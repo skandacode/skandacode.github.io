@@ -22,7 +22,9 @@ I have high standardized test scores, including a superscore of 36 out of 36 on 
 
 ## Personal Philosophy
 
-I believe in making STEM and robotics accessible to everyone, regardless of background or resources. This drives my "Robotics for Everyone" initiative, my community teaching efforts, and my focus on researching cost-effective solutions for teaching robotics.
+I believe that access to STEM and robotics shouldn’t be limited to a select few — they should be accessible to everyone, no matter their background or resources. That belief is what drives everything I do, from my "Robotics for Everyone" initiative to the workshops I lead in my community and my focus on developing low-cost, practical solutions for STEM education.
+
+What sets me apart isn’t just academic performance. it's the way I connect technical, hands-on work with a real-world impact. Whether it’s mentoring students or working on research projects, I’m always focused on helping others grow through hands-on learning, shared knowledge, and mentorship. My goal isn’t just to push the boundaries of what I can achieve, but to make sure others can come along for the journey too.
 
 Beyond STEM, I maintain connections to my cultural heritage through South Indian classical Carnatic music. I have recieved a $4000 grant to pursue singing, and gave a performance singing songs from different composers and explaining the meaning and context behind each of those songs. 
 

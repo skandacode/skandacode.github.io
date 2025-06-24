@@ -7,13 +7,6 @@ title: Summary of Accomplishments
 **Email:** arun.skanda@outlook.com
 <br>
 
-## Personal Philosophy & Approach
-
-I believe that access to STEM and robotics shouldn’t be limited to a select few — they should be accessible to everyone, no matter their background or resources. That belief is what drives everything I do, from my "Robotics for Everyone" initiative to the workshops I lead in my community and my focus on developing low-cost, practical solutions for STEM education.
-
-What sets me apart isn’t just academic performance. it's the way I connect technical, hands-on work with a real-world impact. Whether it’s mentoring students or working on research projects, I’m always focused on helping others grow through hands-on learning, shared knowledge, and mentorship. My goal isn’t just to push the boundaries of what I can achieve, but to make sure others can come along for the journey too.
-<br>
-
 ## Education
 
 **Senior, RL Turner High School, Carrollton, TX**  
@@ -97,7 +90,7 @@ Designed, constructed, and presented a lunar rover featuring:
 ### Software Developer Intern - State Farm (Summer 2025)
 
 - **Professional Development Collaboration:** Worked directly with experienced software engineers on insurance policy processing systems, and gained exposure to enterprise-level software development practices
-**Experience Gained:** Learned enterprise software development methodologies, code review processes, and cloud computing skills like AWS Lambda and EKS. Contributed to real-world insurance technology solutions while learning industry best practices for software quality assurance and deployment.
+- **Experience Gained:** Learned enterprise software development methodologies, code review processes, and cloud computing skills like AWS Lambda and EKS. Contributed to real-world insurance technology solutions while learning industry best practices for software quality assurance and deployment.
 
 ### Research Intern - University of Texas at Dallas (Summer 2024) - Algorithms and Data Structures Workshop
 
@@ -117,12 +110,12 @@ Designed, constructed, and presented a lunar rover featuring:
 Computer vision-based fitness tracking using PoseNet machine learning for real-time human pose analysis. Used at school with 30+ users and 5000+ exercise counts recorded.
 
 ### Sidewalk Shaper Municipal Reporting App (2020)
-Civic technology solution using GPS integration and automated reporting to streamline municipal infrastructure maintenance processes.
+An app that can take pictures of sidewalks and send them to city officials with GPS coordinates. This app can be used to make the process of maintaining sidewalks more efficient. 
 
 ### Smart Container IoT System
-Raspberry Pi-based environmental monitoring solution for global cargo tracking, addressing temperature and humidity fluctuations in transit.
-<br>
+Raspberry Pi-based environmental monitoring solution for global cargo tracking. It tracks temperature and humidity changes in shipping containers over time, and sends them to a central server. 
 
+<br>
 
 ## Competitive Robotics
 
@@ -132,10 +125,10 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking, 
 
 - **2024-25 Season:** World Championship Division Winning Alliance Captain, #1 Texas ranking, #7 Global ranking and qualified for the Maryland Tech Invitational (MTI)
 - **2023-2024 Season:** Ranked #1 in software and controls, qualified for the World Championships and the MTI
-- **2022-23 Season:** Texas State Championship Winning Alliance Captain, 11th place globally at World Championships and the MTI
+- **2022-23 Season:** Texas State Championship Winning Alliance Captain, 11th place globally at World Championships and MTI
 
 ### FIRST Lego League (FLL) - Team Captain & Founder (2017-2020)
-- **World Championships:** Qualified 2018, 2020 (represented Texas)
+- **World Championships:** Qualified for the World Championships in 2018 and 2020 (represented Texas)
 - **Regional Excellence:** Multiple #1 rankings at all levels in North Texas
 
 ### Spreading Awareness of STEM
@@ -149,4 +142,5 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking, 
 Beyond my work in STEM, I’ve stayed connected to my cultural roots through South Indian classical music. I’ve been learning Carnatic vocal music for 7 years and have spent 8 years on the bamboo flute. I also earned a $4,000 Texas Folklife scholarship that allowed me to explore the philosophical ideas in classical compositions.
 
 *For complete details on musical achievements and cultural contributions, see my [music & arts page](music-arts.md)*
+
 <br>
