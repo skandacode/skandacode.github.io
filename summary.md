@@ -123,7 +123,6 @@ Civic technology solution using GPS integration and automated reporting to strea
 Raspberry Pi-based environmental monitoring solution for global cargo tracking, addressing temperature and humidity fluctuations in transit.
 <br>
 
----
 
 ## Competitive Robotics
 
