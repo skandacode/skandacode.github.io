@@ -95,24 +95,6 @@ main a:hover {
     color: #03dac6;
 }
 
-/* Special styling for CTA links */
-main a[href*="summary"], main a[href*="Resume"] {
-    background: linear-gradient(135deg, #bb86fc, #03dac6);
-    color: #000;
-    text-decoration: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: bold;
-    display: inline-block;
-    margin: 10px 5px;
-    transition: all 0.3s ease;
-}
-
-main a[href*="summary"]:hover, main a[href*="Resume"]:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(187, 134, 252, 0.3);
-}
-
 /* List styling */
 ul {
     margin: 15px 0;
