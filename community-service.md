@@ -51,16 +51,3 @@ title: Community Service & Volunteerism
 My approach to community service centers on **sustainable impact through education**. Rather than short-term assistance, I focus on building lasting capabilities in young people, particularly in STEM fields where representation and access remain challenges. By teaching technical skills while emphasizing creativity, problem-solving, and teamwork, I aim to prepare the next generation of innovators and leaders.
 
 Through these programs, I've seen students who started with no technical experience become confident builders, programmers, and team leaders. Many have gone on to join their school robotics teams, pursue STEM courses, and develop their own technical projects.
-
----
-
-## Quick Navigation
-
-### **[Back to Summary](summary.md)**
-{: .nav-card}
-
-### **[View Music & Arts](music-arts.md)**
-{: .nav-card}
-
-### **[View Robotics](robotics.md)**
-{: .nav-card}

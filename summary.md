@@ -104,14 +104,12 @@ Designed, constructed, and presented a lunar rover featuring:
 - **Professional Development Collaboration:** Worked directly with experienced software engineers on insurance policy processing systems, and gained exposure to enterprise-level software development practices
 **Experience Gained:** Learned enterprise software development methodologies, code review processes, and cloud computing skills like AWS Lambda and EKS. Contributed to real-world insurance technology solutions while learning industry best practices for software quality assurance and deployment.
 
-### Research Intern - University of Texas at Dallas (Summer 2024)
-**Algorithms and Data Structures Workshop**
+### Research Intern - University of Texas at Dallas (Summer 2024) - Algorithms and Data Structures Workshop
 
 - **Different algorithms:** Learned about different types of searching algorithms, sorting techniques, divide-and-conquer strategies, and dynamic programming approaches
 - **Data Structures:** In-depth analysis of lists, arraylists, queues, stacks, linked lists, and tree structures with applications in competitive programming
 
-### Research Intern - University of Texas at Dallas (Summer 2023)
-**Pattern Discovery and Machine Learning Laboratory**
+### Research Intern - University of Texas at Dallas (Summer 2023) - Pattern Discovery and Machine Learning Laboratory
 - **Vehicle Trajectory Prediction:** Developed and implemented a PyTorch-based Convolutional Neural Network to predict vehicle movement patterns with 83% accuracy
 - **Autonomous Vehicle Safety:** Created reinforcement learning algorithms to enable autonomous vehicles to avoid collisions by anticipating other vehicles' trajectories
 <br>
@@ -130,13 +128,15 @@ Civic technology solution using GPS integration and automated reporting to strea
 Raspberry Pi-based environmental monitoring solution for global cargo tracking, addressing temperature and humidity fluctuations in transit.
 <br>
 
+---
+
 ## Competitive Robotics
 
 *For complete robotics journey details and team achievements, see my [robotics page](robotics.md)*
 
 ### FIRST Tech Challenge (FTC) - Team Captain & Founder (2020-Present)
 
-- **2024-25 Season:** World Championship Division Winning Alliance Captain, #1 Texas ranking, #7 Global ranking and the Maryland Tech Invitational (MTI)
+- **2024-25 Season:** World Championship Division Winning Alliance Captain, #1 Texas ranking, #7 Global ranking and qualified for the Maryland Tech Invitational (MTI)
 - **2023-2024 Season:** Ranked #1 in software and controls, qualified for the World Championships and the MTI
 - **2022-23 Season:** Texas State Championship Winning Alliance Captain, 11th place globally at World Championships and the MTI
 

@@ -25,16 +25,3 @@ This annual hackathon brings together the best young programmers from across the
 
 ### Lockheed Martin Code Quest
 **2nd Place - Advanced Division** - Placed 2nd in the Advanced Division among all schools in Dallas-Fort Worth area. This competition challenges students with real-world programming problems similar to those encountered in aerospace and defense industries.
-
----
-
-## Quick Navigation
-
-### **[Back to Summary](summary.md)**
-{: .nav-card}
-
-### **[View Physics & Math Competitions](competitions.md)**
-{: .nav-card}
-
-### **[View Projects](projects.md)**
-{: .nav-card}

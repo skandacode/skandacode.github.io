@@ -25,13 +25,3 @@ title: Physics & Mathematics Competitions
 
 ### Noetic Math Contest
 **National Honor Roll** - Multiple years of National Honor Roll recognition for outstanding performance in this national mathematics competition.
-
----
-
-## Quick Navigation
-
-### **[Back to Summary](summary.md)**
-{: .nav-card}
-
-### **[View Computer Science Competitions](cs-competitions.md)**
-{: .nav-card}
