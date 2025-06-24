@@ -57,7 +57,9 @@ AP Classes & UT OnRamps Dual Enrollment:
 *Competition Preparation:*
 - ChemWoot
 - PhysicsWoot
+
 <br>
+
 ---
 
 ## Research Experience & Publications
