@@ -17,44 +17,15 @@ I have high standardized test scores, including a superscore of 36 out of 36 on 
 
 - **Research Pioneer:** Part of the only high school team presenting at international engineering conferences with 3 published papers
 - **Robotics Excellence:** World Championship Division Winner, #1 Texas, founded and coached 22+ teams
-- **Educational Impact:** Taught 150+ students, generated $8,000+ annually through teaching robotics
-- **Technical Depth:** 9 years competitive robotics, professional internships, USACO Silver level programmer
+- **Educational Impact:** Taught 200+ students, generated $8,000+ annually through teaching robotics
+- **Technical Depth:** 9 years competitive robotics, professional internships, USACO Silver level programmer, USAPhO qualifier
 
 ## Personal Philosophy
 
 I believe in making STEM and robotics accessible to everyone, regardless of background or resources. This drives my "Robotics for Everyone" initiative, my community teaching efforts, and my focus on researching cost-effective solutions for teaching robotics.
 
-Beyond STEM, I maintain connections to my cultural heritage through South Indian classical Carnatic music. Through singing, I have earned a $4,000 Texas Folklife scholarship for my dedication to preserving traditional art forms.
+Beyond STEM, I maintain connections to my cultural heritage through South Indian classical Carnatic music. I have recieved a $4000 grant to pursue singing, and gave a performance singing songs from different composers and explaining the meaning and context behind each of those songs. 
+
+
 <br>
----
-
-## Explore My Work
-
-### **[Summary of Accomplishments](summary.md)**
-{: .nav-card}
-
-### **[Complete Resume](resume.md)**
-{: .nav-card}
-
-### **[Robotics Journey](robotics.md)**
-{: .nav-card}
-
-### **[Research & Projects](projects.md)**
-{: .nav-card}
-
-### **[Academic Competitions](competitions.md)**
-{: .nav-card}
-
-### **[Computer Science Competitions](cs-competitions.md)**
-{: .nav-card}
-
-### **[Music & Arts](music-arts.md)**
-{: .nav-card}
-
-### **[Community Service](community-service.md)**
-{: .nav-card}
-
-### **[Contact Information](contact.md)**
-{: .nav-card}
-
----
+<br>
