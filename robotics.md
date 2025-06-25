@@ -26,15 +26,16 @@ title: Competitive Robotics Achievements
 ### Primary Robotics and CAD Instructor (2022-2024)
 
 **Program Scale and Impact:**
-- **Student Reach:** Taught over 200 students across grades 3-8 in competitive robotics and computer-aided design
+- **Student Reach:** Taught over 200 students across grades 3-10 in competitive robotics and computer-aided design
 - **Revenue Generation:** Raised over $8,000 annually through structured weekly educational programs
 - **Global Mentorship:** Coached and mentored over 40 robotics teams across international locations
 - **Team Development:** Founded 22 competitive robotics teams that achieved multiple awards in North Texas regional competitions
 
 **Curriculum Development and Delivery:**
-- **Beginner Classes:** One-hour Saturday classes covering mechanical systems (gears, motors), basic programming concepts, and robot movement and control
-- **Intermediate Classes:** FIRST Lego League (FLL) preparation focusing on modular attachments, programming, and presentation skills
-- **CAD Education:** Taught OnShape computer-aided design to 20 students covering part studios and assemblies for FIRST Tech Challenge participation
+- **Beginner Classes:** One-hour Saturday classes covering mechanical systems (gears, motors), basic programming concepts, and robot movement and control, held weekly for 3.5 years
+- **Intermediate Classes:** FIRST Lego League (FLL) preparation focusing on modular attachments, programming, and presentation skills, held weekly for 3.5 years
+- **CAD Education:** Taught OnShape computer-aided design to 20 students covering part studios and assemblies for FIRST Tech Challenge participation weekly for 2 years
+- **Summer FTC Classes:** 2.5 hour long classes designed to teach all of the technical aspects of FTC, like building, CAD, and programming. These classes were held every week for the entire summer
 - **Progressive Learning:** Teach a wide range of classes for different age groups, allowing students to move from one group to the next over multiple years
 
 ## Robotics Stats
