@@ -10,7 +10,7 @@ title: Summary of Accomplishments
 ## Education
 
 **Senior, RL Turner High School, Carrollton, TX**  
-- **Class Rank:** 3/500 (Top 1%)
+- **Class Rank:** 2/500 (Top 1%)
 - **Standardized Test Scores:** 
   - PSAT: 1520/1520 (Perfect Score)
   - ACT: 36/36 (Perfect Superscore)

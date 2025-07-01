@@ -7,7 +7,7 @@ title: Community Service
 
 ### Presidential Volunteer Service Award - Gold Medal (2024)
 
-## TIER 1: SPREAD AWARENESS OF STEM & FIRST
+## TIER 1: SPREAD AWARENESS OF STEM & Robotics
 **Events Conducted:** 20 | **People Impacted:** 3,235 | **Hours Volunteered:** 363
 
 ### Community Outreach & Education
@@ -15,7 +15,7 @@ title: Community Service
 
 **Specific Events:**
 - **Northside Library STEM Fair** - Hours Spent: 10; People Impacted: 1,500
-- **Clay All Parent FIRST Night** - Hours Spent: 5; People Impacted: 25
+- **Clay All Parent Robotics Night** - Hours Spent: 5; People Impacted: 25
 - **Genesis Women's Shelter** - Hours Spent: 10; People Impacted: 25
 - **Preschool FLL Intro** - Hours Spent: 6; People Impacted: 100
 - **Clara Love Elementary** - Hours Spent: 6; People Impacted: 100
