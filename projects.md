@@ -62,7 +62,7 @@ title: Projects
 **2023: "Cost-Effective 3D Printing Solutions for Educational Robotics"**
 - This paper addresses the high-cost barriers in competitive robotics. Robotics kits often cost thousands of dollars, making access extremely difficult in certain situations. 
 - We designed and open-sourced 3D printed structural components and mounting systems so that anyone with access to a 3D printer can get started with robotics. Almost anyone can access a 3D printer at their library, so this project makes learning more cost effective than other options. 
-- Whereas other kits can cost upwards of $1000, the kit that we designed costs only around $100 for the structural components. This is due to the fact that we give the CAD models directly to the customer for them to 3D print rather than mill it out of aluminum ourselves. 
+- Whereas other kits can cost upwards of \$1000, the kit that we designed costs only around \$100 for the structural components. This is due to the fact that we give the CAD models directly to the customer for them to 3D print rather than mill it out of aluminum ourselves. 
 
 **2022: "Flat Pattern Simplification for Educational Manufacturing"**
 - Cost-effective alternatives to commercial robotics kits due to the usage of flat, laser-cuttable parts that can easily be mass produced. 
