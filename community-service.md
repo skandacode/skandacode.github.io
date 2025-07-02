@@ -23,7 +23,6 @@ title: Community Service
 - **Open House at Community Center** - Hours Spent: 8; People Impacted: 1,000
 - **North Texas Food Bank** - Hours Spent: 3; People Impacted: 30
 - **Texas Instruments Bring Your Kids to Work** - Hours Spent: 4; People Impacted: 2,000
-- **Mrs. Manju's Montessori** - Hours Spent: 2; People Impacted: 15
 - **Robotics Booth at Community Center** - Hours Spent: 2; People Impacted: 30
 - **Robot Petting Zoo** - Hours Spent: 3; People Impacted: 500
 - **Dallas AI Conference** - Hours Spent: 2; People Impacted: 50
