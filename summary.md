@@ -93,17 +93,17 @@ Designed, constructed, and presented a lunar rover featuring:
 
 ### Software Developer Intern - State Farm (Summer 2025)
 
-- **Professional Development Collaboration:** Worked directly with experienced software engineers on insurance policy processing systems, and gained exposure to enterprise-level software development practices
+- Worked directly with experienced software engineers on insurance policy processing systems, and gained exposure to enterprise-level software development practices
 - **Experience Gained:** Learned enterprise software development methodologies, code review processes, and cloud computing skills like AWS Lambda and EKS. Contributed to real-world insurance technology solutions while learning industry best practices for software quality assurance and deployment.
 
 ### Research Intern - University of Texas at Dallas (Summer 2024) - Algorithms and Data Structures Workshop
 
-- **Different algorithms:** Learned about different types of searching algorithms, sorting techniques, divide-and-conquer strategies, and dynamic programming approaches
-- **Data Structures:** In-depth analysis of lists, arraylists, queues, stacks, linked lists, and tree structures with applications in competitive programming
+- Learned about different types of searching algorithms, sorting techniques, divide-and-conquer strategies, and dynamic programming approaches
+- In-depth analysis of lists, arraylists, queues, stacks, linked lists, and tree structures with applications in competitive programming
 
 ### Research Intern - University of Texas at Dallas (Summer 2023) - Pattern Discovery and Machine Learning Laboratory
-- **Vehicle Trajectory Prediction:** Developed and implemented a PyTorch-based Convolutional Neural Network to predict vehicle movement patterns with 83% accuracy
-- **Autonomous Vehicle Safety:** Created reinforcement learning algorithms to enable autonomous vehicles to avoid collisions by anticipating other vehicles' trajectories
+- Developed and implemented a PyTorch-based Convolutional Neural Network to predict vehicle movement patterns with 83% accuracy
+- Created reinforcement learning algorithms to enable autonomous vehicles to avoid collisions by anticipating other vehicles' trajectories
 <br>
 
 ## Application Development Projects
@@ -132,14 +132,14 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking. 
 - **2022-23 Season:** Texas State Championship Winning Alliance Captain, 11th place globally at World Championships and MTI
 
 ### FIRST Lego League (FLL) - Team Captain & Founder (2017-2020)
-- **World Championships:** Qualified for the World Championships in 2018 and 2020 (represented Texas)
-- **Regional Excellence:** Multiple #1 rankings at all levels in North Texas
+- Qualified for the World Championships in 2018 and 2020 (represented Texas)
+- Multiple #1 rankings at all levels in North Texas
 
 ### Spreading Awareness of STEM
-- **Primary Robotics Instructor:** Generated $8,000+ annually through educational programs
-- **Community Impact:** Transformed local community center into recognized STEM learning hub
-- **International Reach:** Mentored teams across multiple countries and regions
-- **Teaching Impact:** Founded and coached 22+ competitive robotics teams, taught 150+ students
+- Generated $8,000+ annually through educational programs
+- Transformed local community center into recognized STEM learning hub
+- Mentored teams across multiple countries and regions
+- Founded and coached 22+ competitive robotics teams, taught 150+ students
 
 ## Cultural Heritage
 

@@ -31,10 +31,10 @@ title: Community Service
 These are just some of the events that I have conducted. Most of these were organized by me, and not as part of a bigger event. 
 
 **Community Impact:**
-- **Student Reach:** Presented to over 5,000 children at community events, libraries, and schools
-- **Community Engagement:** Conducted 20+ outreach events to spread awareness of STEM
-- **FIRST Promotion:** Introduced hundreds of families to FIRST Lego League and FIRST Tech Challenge programs
-- **Local Impact:** Introduced robotics to students from multiple schools and community centers
+- Presented to over 5,000 children at community events, libraries, and schools
+- Conducted 20+ outreach events to spread awareness of STEM
+- Introduced hundreds of families to FIRST Lego League and FIRST Tech Challenge programs
+- Introduced robotics to students from multiple schools and community centers
 
 
 ## TIER 2: SHARING KNOWLEDGE BY TEACHING
@@ -44,11 +44,11 @@ These are just some of the events that I have conducted. Most of these were orga
 **Primary Robotics and CAD Instructor** - Taught comprehensive robotics programs focusing on developing the skills necessary for competitive robotics.
 
 **Program Scale and Impact:**
-- **Student Reach:** Taught over 200 students across grades 3-10 in competitive robotics and computer-aided design
-- **Revenue Generation:** Raised over $8,000 annually through structured weekly educational programs
-- **Global Collaboration:** Collaborated with FTC teams within DFW and globally to share knowledge and present at conferences
-- **Community Transformation:** Helped transform local community center into a hub of STEM learning
-- **Long-term Impact:** Many students have continued STEM education and joined or started robotics teams
+- Taught over 200 students across grades 3-10 in competitive robotics and computer-aided design
+- Raised over $8,000 annually through structured weekly educational programs
+- Collaborated with FTC teams within DFW and globally to share knowledge and present at conferences
+- Helped transform local community center into a hub of STEM learning
+- Many students have continued STEM education and joined or started robotics teams
 
 **Community Center Classes:** 2-3 hours weekly teaching robotics and engineering concepts to elementary and middle school students at a local community center
 - **Beginner Robotics Classes:** One-hour Saturday classes covering mechanical systems (gears, motors), basic programming concepts, and robot movement and control, held weekly for 3.5 years
@@ -58,7 +58,7 @@ These are just some of the events that I have conducted. Most of these were orga
 - **Learning over multiple years:** Wide range of classes for different age groups, allowing students to advance through different levels over multiple years
 
 ### Knowledge Sharing & Collaboration
-**FTC Team Collaboration** - Collaborated with FTC teams to share technical knowledge and present research at conferences:
+Collaborated with FTC teams to share technical knowledge and present research at conferences:
 
 **Specific Events:**
 - **FLYSET Conference** - Collaborated with FTC 8565 and presented our innovative shopping cart swerve drivetrain. Hours Spent: 26; People Impacted: 500
@@ -74,9 +74,11 @@ These are just some of the events that I have conducted. Most of these were orga
 **Teams Mentored:** 12 | **People Impacted:** 180 | **Hours Volunteered:** 126
 
 ### Team Foundation and Mentorship
-**FIRST Team Development** - Start and mentor FLL and FTC teams with emphasis on FIRST values and seasonal competition success:
+Start and mentor FLL and FTC teams with emphasis on FIRST values and seasonal competition success:
 
-**Global Mentorship Events:**
+<br>
+
+**Teams Mentored:**
 - **23870 - Robo Avengers, Michigan** - 8hrs
 - **24395 - Ekam, India** - 6hrs
 - **22332 - Trojan Robotics, Dallas, TX** - 30hrs
@@ -91,7 +93,7 @@ These are just some of the events that I have conducted. Most of these were orga
 - **27117 - Byte Size Lions, Dallas, TX** - 15hrs
 
 **Local Team Development:**
-- **Subjects to School Team** - Mentored students by sharing my expertise and experience. They work on an extremely limited budget but did great this season. Helped their FRC team win their first medal.
+- Mentored students by sharing my expertise and experience. They work on an extremely limited budget but did great this season. Helped their FRC team win their first medal.
 
 - **Our Proudest Moment** - Team 23870 - RoboAvengers is a team in Michigan that we started coaching this year. We reviewed their autonomous code and shared our Git Repository. They were the Winning Alliance Captain and Inspire Winner at their Qualifiers this season.
 
@@ -101,8 +103,8 @@ These are just some of the events that I have conducted. Most of these were orga
 ### FIRST Tech Challenge Community Support (2024-2025)
 **Technical Event Volunteer** - Provide support at regional and state robotics competitions, as well as offseason events:
 
-- **Event Management:** Support field setup, team queueing, and keeping scores of the different robots on the field
-- **Technical Support:** Assist teams with troubleshooting wiring, even when our team is competing against them
-- **Competition Operations:** Ensure smooth tournament operations serving 500+ participants per event
+- Support field setup, team queueing, and keeping scores of the different robots on the field
+- Assist teams with troubleshooting wiring, even when our team is competing against them
+- Ensure smooth tournament operations serving 500+ participants per event
 
 <br>
