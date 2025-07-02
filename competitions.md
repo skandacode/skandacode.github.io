@@ -5,22 +5,9 @@ title: Academic Competitions
 
 ## Physics Competitions
 
-### USA Physics Olympiad (USAPHO) 2025
-**Qualified for national competition** - Placed in top 300 students nationwide through rigorous f=ma examination. The USA Physics Olympiad is one of the most prestigious physics competitions in the United States, serving as the pathway to the International Physics Olympiad team selection.
-
-## Mathematics Competitions
-
-### AIME Qualification (2025)
-**American Invitational Mathematics Examination** - Achieved highest AMC score in school history over past 10 years, becoming only the second student in recent school history to qualify for AIME, with 5 problems solved. This qualification represents performance in the top 5% of all AMC participants nationwide.
-
-### MOEMS E/M
-**Gold Pin Recognition** - Earned Gold Pin recognition, placing in top 2% nationally in the Mathematical Olympiads for Elementary and Middle Schools competition.
-
-### AMC 8
-**Honor Roll Recognition** - Achieved Honor Roll recognition for exceptional performance on the American Mathematics Competition 8, demonstrating advanced mathematical problem-solving skills.
-
-### Noetic Math Contest
-**National Honor Roll** - Multiple years of National Honor Roll recognition for outstanding performance in this national mathematics competition.
+### USA Physics Olympiad Honorable Mention 2025
+**Honorable mention at USAPhO** - Placed in top 300 students nationwide in the USAPhO exam. The USA Physics Olympiad is one of the most prestigious physics competitions in the United States, covering almost all aspects of physics, such as mechanics, electricity and magnetism, optics, thermodynamics, relativity and quantum mechanics. 
+![alt text](assets/images/USAPHO.png)
 
 ## Computer Science Competitions
 
@@ -39,5 +26,21 @@ title: Academic Competitions
 This annual hackathon brings together the best young programmers from across the Dallas-Fort Worth metroplex for intensive problem-solving competitions.
 
 ### Lockheed Martin Code Quest
-**2nd Place - Advanced Division** - Placed 2nd in the Advanced Division among all schools in Dallas-Fort Worth area. This competition challenges students with real-world programming problems similar to those encountered in aerospace and defense industries.
+**2nd Place - Advanced Division** - Placed 2nd in the Advanced Division among all schools in Dallas-Fort Worth area. This competition challenges students with real-world programming problems.
+
+## Math Competitions
+
+### AIME Qualification (2025)
+**American Invitational Mathematics Examination** - Achieved highest AMC score in school history over past 10 years, becoming only the second student in recent school history to qualify for AIME, with 5 problems solved. This qualification represents performance in the top 5% of all AMC participants nationwide.
+
+### MOEMS E/M
+**Gold Pin Recognition** - Earned Gold Pin recognition, placing in top 2% nationally in the Mathematical Olympiads for Elementary and Middle Schools competition.
+
+### AMC 8
+**Honor Roll** - Achieved Honor Roll recognition for exceptional performance on the American Mathematics Competition 8, demonstrating advanced mathematical problem-solving skills.
+
+### Noetic Math Contest
+**National Honor Roll** - Multiple years of National Honor Roll recognition for outstanding performance in this national mathematics competition.
+
+
 <br>

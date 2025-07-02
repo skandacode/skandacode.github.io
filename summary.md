@@ -51,6 +51,8 @@ Math Courses:
 
 ## Research Experience & Publications
 
+*For detailed research publications and work experience, see my [research & experience page](research-experience.md)*
+
 ### Solid Freeform Fabrication Symposium - International Conference on Additive Manufacturing
 **University of Texas at Austin (2022, 2023, 2024)**
 
@@ -86,6 +88,8 @@ Designed, constructed, and presented a lunar rover featuring:
 <br>
 
 ## Professional Experience
+
+*For detailed work experience descriptions, see my [research & experience page](research-experience.md)*
 
 ### Software Developer Intern - State Farm (Summer 2025)
 
