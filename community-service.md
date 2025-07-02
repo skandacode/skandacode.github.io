@@ -7,7 +7,7 @@ title: Community Service
 
 ### Presidential Volunteer Service Award - Gold Medal (2024)
 
-##### Total Number of hours across all tiers: 180
+#### Total Number of hours across all tiers: 180
 
 ## TIER 1: SPREAD AWARENESS OF STEM & Robotics
 **Events Conducted:** 20 | **People Impacted:** 5,375 | **Hours Volunteered:** 53
