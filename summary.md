@@ -113,7 +113,7 @@ Designed, constructed, and presented a lunar rover featuring:
 ### Technocise Exercise Tracking Platform (2020)
 Computer vision-based fitness tracking using PoseNet machine learning for real-time human pose analysis. Used at school with 30+ users and 5000+ exercise counts recorded.
 
-### Sidewalk Shaper Municipal Reporting App (2020)
+### Sidewalk Shaper Reporting App (2020)
 An app that can take pictures of sidewalks and send them to city officials with GPS coordinates. This app can be used to make the process of maintaining sidewalks more efficient. 
 
 ### Smart Container IoT System
