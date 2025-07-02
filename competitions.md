@@ -7,7 +7,7 @@ title: Academic Competitions
 
 ### USA Physics Olympiad Honorable Mention 2025
 **Honorable mention at USAPhO** - Placed in top 300 students nationwide in the USAPhO exam. The USA Physics Olympiad is one of the most prestigious physics competitions in the United States, covering almost all aspects of physics, such as mechanics, electricity and magnetism, optics, thermodynamics, relativity and quantum mechanics. 
-![alt text](assets/images/USAPHO.png)
+![USAPhO Certificate](assets/images/USAPHO.png){: .project-image}
 
 ## Computer Science Competitions
 

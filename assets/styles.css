@@ -157,6 +157,48 @@ img {
     border-radius: 8px;
 }
 
+/* Standardized image sizes */
+.logo-image {
+    max-width: 200px;
+    height: auto;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.robot-image {
+    max-width: 300px;
+    height: auto;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.project-image {
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+.demo-image {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+/* Profile images */
+.profile-image {
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
 /* Animations */
 body {
     animation: fadeIn 1s ease-in;

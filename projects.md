@@ -24,12 +24,12 @@ title: Projects
 The satellite uses computer vision algorithms to detect and predict wildfire movement from space using satellites. Used a color thresholding and contour detection to detect where the wildfires are, and used data from multiple passes to show fire spread. Then, the program makes predictions on where the fire will spread next. 
 
   **[Link to Cubesat CAD Model](https://cad.onshape.com/documents/659f951b2f3d6802c7789cdf/w/b8b9c379a43547fd131a2233/e/30e1710706289f5d181ec25f)**
-  ![Fire Spreading tracking over time](assets/images/cubesatsoftwaredemo.png)
+  ![Fire Spreading tracking over time](assets/images/cubesatsoftwaredemo.png){: .demo-image}
   *The fire spread in the order of the white contour, the red contour, the blue, green, and finally yellow. The arrows show the direction of motion of the fire.*
 
 - **Mudslide Detection and Impact Assessment** (2023-2024) 
   The CubeSat maps regions that are susceptible to mudslides by using machine learning, and alerting ground station if any new mudslides have been detected. 
-  ![2024 Cubesat Picture](assets/images/cubesat2024.png)
+  ![2024 Cubesat Picture](assets/images/cubesat2024.png){: .project-image}
 
 ## **Application Development**
 
@@ -50,13 +50,13 @@ The satellite uses computer vision algorithms to detect and predict wildfire mov
 - The DHT11 sensor allowed us to have precise temperature and humidity monitoring with detection ranges from -67°F to 122°F and humidity sensing between 5% and 95%. This ensured that the solution could be used for all containers on storage areas.
 - The app used an API which allowed us to have secure, real-time, data transmission as well as processing and data storage. The data is stored on a website. 
 - Connected with the United Nations and FedEx for professional feedback.
-![alt text](assets/images/smartcontainer.png)
+![Smart Container System](assets/images/smartcontainer.png){: .project-image}
 
 ### **Inexpensive Thermal Camera System for Detecting House Leaks**
 - This DIY thermal camera helps detect heat loss in homes, which can account for up to 30% of energy waste, by visually identifying insulation gaps, air leaks, and overheating appliances—potentially saving $200–$400 per year on energy bills. 
 - Device Specs: Has a 24×32 thermal resolution, real-time heatmap display, Raspberry Pi-powered, HDMI output, temperature detection range: -40°C to 300°C. Costs around \$100. Existing systems cost over \$1000. 
 - Thermal Camera turns heat into colors, letting you see temperature differences on a screen.
 - Spots inefficient heating or cooling areas, allowing you to take steps to reduce energy loss and save money on bills.
-![alt text](assets/images/thermalCameraoutput.png)
+![Thermal Camera Output](assets/images/thermalCameraoutput.png){: .demo-image}
 
 <br>

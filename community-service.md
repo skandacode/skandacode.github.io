@@ -68,6 +68,8 @@ These are just some of the events that I have conducted. Most of these were orga
 - **Open Source Pure Pursuit Pathing Library** - Worked with another robotics team and created a custom pathing library for the autonomous period using the pure pursuit algorithm. Hours Spent: 20
 - **Introduction to CAD** - Created youtube videos on how to use CAD and shared them with teams all around the world, including Austrailian and South African teams. Hours Spent: 25
 - **IGNITE - Outreach with TexPand, South Africa** - Collaborated with team 18763 Texpand based in South Africa in order to establish competitive teams in the region. Formed an organization called Ignite Robotics. Hours Spent: 10
+![Flyset Conference](assets\images\flysetconference.png){: .project-image}
+
 
 ## TIER 3: CONNECTIONS: LOCAL AND AROUND THE WORLD
 **Teams Mentored:** 12 | **People Impacted:** 180 | **Hours Volunteered:** 126

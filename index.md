@@ -7,7 +7,7 @@ title: Home
 
 I am currently a senior at RL Turner High School in Carrollton, TX, ranking 2nd out of 500 students (top 1% of my class). I strive to not only have a solid academic performance, but to have an effect on the real world. I have presented at international conferences, published several papers, and spread awareness of robotics and STEM around the world.
 
-![Profile Picture](assets/images/profile.jpg)
+![Profile Picture](assets/images/frontpagepicture.png){: .profile-image}
 
 ## About Me
 

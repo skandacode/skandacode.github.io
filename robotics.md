@@ -11,10 +11,12 @@ I have participated in 5 years of FIRST Tech Challenge as the team captain and f
 **[YouTube Channel](https://www.youtube.com/@ftc18270/videos)**
 **[Team Website](https://www.18270roboplayers.org/)**
 
+<br>
+
 ---
 
-![Into The Deep Logo](assets/images/intothedeeplogo.jpg)
-![Bot Pic](<assets/images/jemison devison.JPG>)
+![Into The Deep Logo](assets/images/intothedeeplogo.jpg){: .logo-image}
+![Bot Pic](<assets/images/jemison devison.JPG>){: .robot-image}
 
 After our first event, we were undefeated and were ranked number 1 in the world. In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, which are the two top awards given in any event. We also had the second highest score in the world. In our interleague tournament we also won the winning alliance captain, and were subsequently ranked as number 1 in north texas. In December, we had the solo world record, which we held for over a month. At the North Texas regional competition, we won the Inspire award (Championship award), which qualified us to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. At Worlds, we were the Winning Alliance Captain and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and as one of the 3 US teams invited to the Bucharest Twin Cup in Romania.
 
@@ -23,12 +25,14 @@ After our first event, we were undefeated and were ranked number 1 in the world.
 **[Former Solo World Record](https://www.youtube.com/watch?v=xO0BuFX0f84&ab_channel=FTCRoboPlayers)**
 **[Onshape CAD Link](https://cad.onshape.com/documents/aebaa3ef6903293b21871485/w/9412eeae3624fe42ce363cc1/e/6d81e58ad25a991a5d27d1b4)**
 
+<br>
+
 ---
 
 <br>
 
-![Centerstage Logo](assets/images/centerstagelogo.png)
-![Centerstage Robot](<assets/images/centerstage bobit.jpg>)
+![Centerstage Logo](assets/images/centerstagelogo.png){: .logo-image}
+![Centerstage Robot](<assets/images/centerstage bobit.jpg>){: .robot-image}
 
 We won our inter-league tournament, and won the motivate award (Helping others pursue STEM) in the regional competition. At the Texas State Championship we won the control award (Software algorithms), which qualified us to the World Championships. We qualified for the Maryland Tech Invitational in Johns Hopkins. 
 
@@ -37,16 +41,21 @@ We won our inter-league tournament, and won the motivate award (Helping others p
 **[Onshape CAD Link](https://cad.onshape.com/documents/5072cf6460521fa37944e101/w/de839feb5dd34fbbbaa0c123/e/08065b1b154e35d30467b3fd)**
 
 
+<br>
+
 ---
 <br>
 
-![Powerplay Logo](assets/images/powerplaylogo.jpg)![Bot picture](<assets/images/powerplay robot states.jpg>)
+![Powerplay Logo](assets/images/powerplaylogo.jpg){: .logo-image}
+![Bot picture](<assets/images/powerplay robot states.jpg>){: .robot-image}
 
 
 We won our inter-league tournament, and played the finals in the regional competition. We ranked 1st at the Texas State Championship, and won the event, placing us first in about 800 teams. We also placed 5th in our division at the World Championship. We qualified for the Maryland Tech Invitational in Johns Hopkins and had the most consistent autonomous in the entire event.  
 
 **[MTI Submission](https://www.youtube.com/watch?v=8cJn8f_Pyw0)**
 **[Behind the Bot Interview](https://www.youtube.com/watch?v=OdSXCAskOkE)**
+
+<br>
 
 ---
 
@@ -56,8 +65,12 @@ We won our inter-league tournament, and played the finals in the regional compet
 
 **2020-2021 Ultimate Goal** - We qualified to the regional championship after winning the first place Think Award at our qualifier. 
 
+<br>
+
 
 ---
+
+<br>
 
 **FIRST Lego League** - I have participated in 3 years of FIRST Lego League as the team captain and founder of the team. 
 - **2019-2020 City Shaper** - We were ranked 1st place in our qualifier and won the Championship Award. We placed 3rd and regionals and won the Championship award. Unfortunately, the World Championship was canceled due to the COVID-19 pandemic.
@@ -84,7 +97,7 @@ We won our inter-league tournament, and played the finals in the regional compet
 - **Summer FTC Classes:** 2.5 hour long classes designed to teach all of the technical aspects of FTC, like building, CAD, and programming. These classes were held every week for the entire summer
 
 
-![Mentoring teams](assets/images/mentoringteams.png)
+![Mentoring teams](assets/images/mentoringteams.png){: .demo-image}
 
 ## Robotics Stats
 - Ranked 97th in FTC Hall of Fame globally
