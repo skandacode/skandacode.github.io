@@ -14,8 +14,9 @@ title: Projects
 - **Dual Control Systems** - The rover can be controlled through either a remote control or computer-based radio command interface. The rover can be controlled through both a Bluetooth Low Energy connected controller, or autonomously controlled through Long Range Radio at the 915Mhz frequency. Commands consist of Python code which is executed on the rover. 
 - **Wireless image capture and transmission** - Uses a high resolution camera in the M5 Stack Camera X to capture photos, and uses the built in ESP 32 as a Wifi Access point to send the images to a computer
 - **Wireless Software Updates** - Over-the-air programming system. Our rover is capable of executing python code that was transmitted over the radio. Because of this, we are able to edit files on the rover, which allows us to make software updates without even taking the rover apart. This system was inspired by the Ingenuity mission in Mars. 
-- 
+  
     **[Link to website](https://sites.google.com/cfbmail.com/nasa-hunch-lunar-rover/designs)**
+    
     **[Link to latest CAD Model](https://cad.onshape.com/documents/b768e7ff74cb64a2bd957713/w/f866da644b5ce7340ff3ff36/e/6890e63dd318aa4fd2992dfc)**
 
 ### **CubeSat Development Projects**
