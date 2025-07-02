@@ -77,7 +77,7 @@ These are just some of the events that I have conducted. Most of these were orga
 **FIRST Team Development** - Start and mentor FLL and FTC teams with emphasis on FIRST values and seasonal competition success:
 
 **Global Mentorship Events:**
-- **3870 - Robo Avengers, Michigan** - 8hrs
+- **23870 - Robo Avengers, Michigan** - 8hrs
 - **24395 - Ekam, India** - 6hrs
 - **22332 - Trojan Robotics, Dallas, TX** - 30hrs
 - **23939 - Robo Rookies, Dallas, TX** - 13hrs
