@@ -16,6 +16,7 @@ I have participated in 5 years of FIRST Tech Challenge as the team captain and f
 ---
 
 ![Into The Deep Logo](assets/images/intothedeeplogo.jpg){: .logo-image}
+
 ![Bot Pic](<assets/images/jemison devison.JPG>){: .robot-image}
 
 After our first event, we were undefeated and were ranked number 1 in the world. In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, which are the two top awards given in any event. We also had the second highest score in the world. In our interleague tournament we also won the winning alliance captain, and were subsequently ranked as number 1 in north texas. In December, we had the solo world record, which we held for over a month. At the North Texas regional competition, we won the Inspire award (Championship award), which qualified us to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. At Worlds, we were the Winning Alliance Captain and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and as one of the 3 US teams invited to the Bucharest Twin Cup in Romania.
@@ -32,6 +33,7 @@ After our first event, we were undefeated and were ranked number 1 in the world.
 <br>
 
 ![Centerstage Logo](assets/images/centerstagelogo.png){: .logo-image}
+
 ![Centerstage Robot](<assets/images/centerstage bobit.jpg>){: .robot-image}
 
 We won our inter-league tournament, and won the motivate award (Helping others pursue STEM) in the regional competition. At the Texas State Championship we won the control award (Software algorithms), which qualified us to the World Championships. We qualified for the Maryland Tech Invitational in Johns Hopkins. 
@@ -47,6 +49,7 @@ We won our inter-league tournament, and won the motivate award (Helping others p
 <br>
 
 ![Powerplay Logo](assets/images/powerplaylogo.jpg){: .logo-image}
+
 ![Bot picture](<assets/images/powerplay robot states.jpg>){: .robot-image}
 
 

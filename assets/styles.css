@@ -159,7 +159,7 @@ img {
 
 /* Standardized image sizes */
 .logo-image {
-    max-width: 200px;
+    max-width: 500px;
     height: auto;
     display: inline-block;
     margin: 10px;
@@ -167,7 +167,7 @@ img {
 }
 
 .robot-image {
-    max-width: 300px;
+    max-width: 600px;
     height: auto;
     display: inline-block;
     margin: 10px;
@@ -175,7 +175,7 @@ img {
 }
 
 .project-image {
-    max-width: 400px;
+    max-width: 600px;
     height: auto;
     display: block;
     margin: 20px auto;
