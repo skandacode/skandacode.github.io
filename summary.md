@@ -63,7 +63,7 @@ Math Courses:
 - **2023:** "Cost-Effective 3D Printing Solutions for Educational Robotics" - Open-source structural components that reduce costs of robotics kits from $1000+ to ~$100
 - **2022:** "Flat Pattern Simplification for Educational Manufacturing" - Laser-cuttable robotics platform through "Robotics for Everyone" initiative, which makes parts cheaper
 
-*To learn more, see my [complete projects page](projects.md)*
+*To learn more, see my [research & experience page](research-experience.md)*
 
 ### CubeSat Development Projects
 **MIT Beaver Works Summer Institute (BWSI) Build a CubeSat Challenge**
@@ -71,7 +71,7 @@ Math Courses:
 - **2024-2025 Project:** - I developed computer vision algorithms for satellite-based wildfire detection and prediction. It uses cameras and machine learning to provide early warnings for officials
 - **2023-2024 Project:** - I created a terrain analysis program to track mudslides and calculate the environmental impact using satellite imagery
 
-*For more detail, see my [complete projects page](projects.md)*
+*For more detail, see my [projects page](projects.md)*
 
 ### NASA HUNCH Program
 **Micro-Rover Development (2024)**
@@ -84,7 +84,7 @@ Designed, constructed, and presented a lunar rover featuring:
 - **Wireless Image Transmission:** Has a camera with WiFi functionality to stream video to a phone or laptop with over a 100ft range
 - **Wireless Software Updates Through Radio:** Innovative over-the-air programming system allowing remote code deployment and system updates
 
-*For detailed technical specifications, see my [complete projects page](projects.md)*
+*For detailed technical specifications, see my [projects page](projects.md)*
 <br>
 
 ## Professional Experience
