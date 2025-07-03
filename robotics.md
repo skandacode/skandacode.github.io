@@ -6,7 +6,7 @@ title: Competitive Robotics Achievements
 ## My Robotics Journey
 
 ### **FIRST Tech Challenge Experience** 
-Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the design and programming sub-teams.
+Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayffffers. I led the design and programming sub-teams.
 
 
 **[YouTube Channel](https://www.youtube.com/@ftc18270/videos)**
