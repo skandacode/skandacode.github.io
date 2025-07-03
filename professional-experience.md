@@ -45,7 +45,8 @@ title: Research & Experience
 
 ### **Software Developer Intern - State Farm** (Summer 2025)
 *Enterprise-level software development and cloud migration*
-- **AWS Lambda to EKS Migration** - Successfully migrated  application components from AWS Lambda serverless architecture to Amazon EKS (Elastic Kubernetes Service). This migration improved system integration capabilities and enhanced scalability for insurance policy processing systems.
-- **Enterprise Software Development** - Collaborated directly with experienced software engineers on production insurance policy processing systems, gaining hands-on experience with enterprise-level software development practices and industry standards.
-- **System Integration and Optimization** - Unified disparate application components into cohesive services, resulting in improved overall system efficiency and maintainability. This work involved analyzing existing system architecture and implementing solutions to reduce complexity.
-- **Professional Development** - Gained exposure to enterprise software development methodologies, version control systems, and collaborative development practices used in large-scale financial services technology.
+- Successfully migrated application components from AWS Lambda to Amazon EKS. 
+- Gained experience in working with Gitlab pipelines and fixing security vulnerabilities
+- Collaborated directly with software engineers on production insurance policy processing systems, gaining experience with enterprise level software development practices and industry standards.
+- Unified 2 application components into a single service, resulting in reduced costs for the company. 
+- Gained exposure to enterprise software development methodologies, version control systems, and collaborative development practices used in industry. 

@@ -15,10 +15,10 @@ I have high standardized test scores, including a superscore of 36 out of 36 on 
 
 ## What Makes Me Unique
 
-- **Research Experience:** Part of the only high school team presenting at international engineering conferences with 3 published papers
-- **Robotics Excellence:** World Championship Division Winner, #1 Texas, founded and coached 22+ teams
-- **Educational Impact:** Taught 200+ students, generated $8,000+ annually through teaching robotics
-- **Technical Depth:** 9 years competitive robotics, professional internships, USACO Silver level programmer, USAPhO qualifier
+- Part of the only high school team presenting at international engineering conferences with 3 published papers
+- World Championship Division Winner, #1 Texas, founded and coached 22+ teams
+- Taught 200+ students, generated $8,000+ annually through teaching robotics
+- 9 years competitive robotics, professional internships, USACO Silver level programmer, USAPhO qualifier
 
 ## Personal Philosophy
 
