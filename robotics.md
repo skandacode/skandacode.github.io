@@ -6,7 +6,7 @@ title: Competitive Robotics Achievements
 ## My Robotics Journey
 
 ### **FIRST Tech Challenge Experience** 
-Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayfffffers. I led the design and programming sub-teams.
+Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the design and programming sub-teams.
 
 
 **[YouTube Channel](https://www.youtube.com/@ftc18270/videos)**
@@ -16,7 +16,10 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayfffffers. I led t
 
 ---
 
-<h2>2024-2025 - Into The Deep <img src="assets/images/intothedeeplogo_back.jpg" height="50" style="vertical-align: middle; margin-left: 10px;"></h2>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h2 style="margin: 0;">2024-2025 - Into The Deep</h2>
+  <img src="assets/images/intothedeeplogo_back.jpg" height="50">
+</div>
 
 ### Robot Design
  -  Features active intake to pick up samples from around the field
