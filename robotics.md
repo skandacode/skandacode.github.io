@@ -6,37 +6,64 @@ title: Competitive Robotics Achievements
 ## My Robotics Journey
 
 ### **FIRST Tech Challenge Experience** 
-I have participated in 5 years of FIRST Tech Challenge as the team captain and founder of the team. I also led the design and programming sub-teams.
+Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the design and programming sub-teams.
 
-<br>
 
 **[YouTube Channel](https://www.youtube.com/@ftc18270/videos)**
 
 **[Team Website](https://www.18270roboplayers.org/)**
 
-<br>
 
 ---
 
-![Into The Deep Logo](assets/images/intothedeeplogo.jpg){: .logo-image}
+## 2024-2025 - Into The Deep <img align="center" height="50" src="assets/images/intothedeeplogo_back.jpg">
 
-![Bot Pic](<assets/images/jemison devison.JPG>){: .robot-image}
+### Robot Design
+ -  Features active intake to pick up samples from around the field
+ -  Utilizes a "Power Take-off" to switch between torque(while hanging) and speed(throughout the rest of the game)
+ -  Fully custom carbon fiber drivetrain
+ -  Uses Mechanum wheels to strafe sideways
 
-After our first event, we were undefeated and were ranked number 1 in the world. In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, which are the two top awards given in any event. We also had the second highest score in the world. In our interleague tournament we also won the winning alliance captain, and were subsequently ranked as number 1 in north texas. In December, we had the solo world record, which we held for over a month. At the North Texas regional competition, we won the Inspire award (Championship award), which qualified us to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. At Worlds, we were the Winning Alliance Captain and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and as one of the 3 US teams invited to the Bucharest Twin Cup in Romania.
+ <br>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="text-align: center; margin-right: 25px;">
+    <img src="assets/images/intothedeepCAD.png" height="300">
+    <p style="margin-top: 5px; font-weight: bold; font-size: 16.5px;">
+      <a href="https://cad.onshape.com/documents/aebaa3ef6903293b21871485/w/9412eeae3624fe42ce363cc1/e/6d81e58ad25a991a5d27d1b4" style="text-decoration: underline; color: white;">Robot CAD Design</a>
+    </p>
+  </div>
+  <div style="text-align: center; margin-left: 25px;">
+    <img src="assets/images/intothedeepCODE.png" height="300">
+    <p style="margin-top: 5px; font-weight: bold; font-size: 16.5px;">
+      <a href="https://github.com/skandacode/IntoTheDeepV2" style="text-decoration: underline; color: white;">Autonomous State Machine Code</a>
+    </p>
+  </div>
+</div>
+
+### Videos of our Robot
+ [Interview with FUN Robotics Network](https://www.youtube.com/watch?v=a1bIDZJDJ5c)
+ <br>
+[Former Solo World Record](https://www.youtube.com/watch?v=xO0BuFX0f84&ab_channel=FTCRoboPlayers)
+<br>
+
+### Season Accomplishments
+- After our first event, we were undefeated and were ranked number 1 in the world. 
+- In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, the two top awards given in any event. We also had the second highest score in the world. 
+- In our interleague tournament we also won the winning alliance captain, and were ranked as number 1 in North Texas. 
+- In December, we had the solo world record, which we held for over a month. 
+- At the North Texas regional competition, we won the Inspire award (Championship award) and qualified to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. 
+- At Worlds, we were the Winning Alliance Captain of our division and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and one of the 3 US teams invited to the Bucharest Twin Cup in Romania.
+
+
+<div style="text-align: center;">
+  <img src="assets/images/jemison devison.JPG" alt="Robot Picture" width="500"/>
+</div>
+
 
 <br>
 
 
-**[Code for the season](https://github.com/skandacode/IntoTheDeepV2)**
-
-**[Interview with FUN Robotics Network](https://www.youtube.com/watch?v=a1bIDZJDJ5c)**
-
-**[Former Solo World Record](https://www.youtube.com/watch?v=xO0BuFX0f84&ab_channel=FTCRoboPlayers)**
-
-**[Onshape CAD Link](https://cad.onshape.com/documents/aebaa3ef6903293b21871485/w/9412eeae3624fe42ce363cc1/e/6d81e58ad25a991a5d27d1b4)**
-
-
-<br>
 
 ---
 
