@@ -17,7 +17,7 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 ---
 
 
-<h2>2024-2025 - Into The Deep <img src="assets/images/intothedeeplogo.png" height="12" style="vertical-align: middle; display: inline; margin-right: 25px;"></h2>
+<h2>2024-2025 - Into The Deep <img src="assets/images/intothedeeplogo.png" height="12" style="vertical-align: middle; display: inline; margin-right: 100px;"></h2>
 
 ### Robot Design
  -  Features active intake to pick up samples from around the field
