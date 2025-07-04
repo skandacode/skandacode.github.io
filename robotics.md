@@ -49,12 +49,12 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 <br>
 
 ### Season Accomplishments
-- After our first event, we were undefeated and were ranked number 1 in the world. 
-- In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, the two top awards given in any event. We also had the second highest score in the world. 
+- After our first event, we were undefeated and were ranked number 1 in the world
+- In our first qualifier, we won the Inspire Award (the championship award), and the winning alliance captain, the two top awards given in any event. We also had the second highest score in the world
 - In our interleague tournament we also won the winning alliance captain, and were ranked as number 1 in North Texas. 
-- In December, we had the solo world record, which we held for over a month. 
-- At the North Texas regional competition, we won the Inspire award (Championship award) and qualified to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world. 
-- At Worlds, we were the Winning Alliance Captain of our division and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and one of the 3 US teams invited to the Bucharest Twin Cup in Romania.
+- In December, we had the solo world record, which we held for over a month
+- At the North Texas regional competition, we won the Inspire award (Championship award) and qualified to the World Championships, as well as being ranked number 1 in North Texas for the robot game, and number 7 in the world
+- At Worlds, we were the Winning Alliance Captain of our division and were one of the top 5 robots in the world. We qualified for the Maryland Tech Invitational in Johns Hopkins and one of the 3 US teams invited to the Bucharest Twin Cup in Romania
 
 
 <div style="text-align: center;">
@@ -64,29 +64,72 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 
 <br>
 
+<!-- END OF ITD -->
+<!-- END OF ITD -->
+<!-- END OF ITD -->
+<!-- END OF ITD -->
+<!-- END OF ITD -->
+<!-- END OF ITD -->
+<!-- END OF ITD -->
+<!-- END OF ITD -->
 
 
 ---
 
+
+
+<h2>2023-2024 - CenterStage <img src="assets/images/centerstagelogo.png" height="12" style="vertical-align: middle; display: inline;"></h2>
+
+### Robot Design
+ -  Uses servo-powered active intake to pick up pixels from around the field
+ -  Pocketed aluminium drivetrain to save weight
+ -  Uses Mechanum wheels to strafe
+ -  Motor-powered winch mechanism to "hang" at the end of the game
+
+ <br>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="text-align: center; margin-right: 25px;">
+    <img src="assets/images/centerstageCAD.png" height="300">
+    <p style="margin-top: 5px; font-weight: bold; font-size: 16.5px;">
+      <a href="https://cad.onshape.com/documents/5072cf6460521fa37944e101/w/de839feb5dd34fbbbaa0c123/e/08065b1b154e35d30467b3fd" style="text-decoration: underline; color: white;">Robot CAD Design</a>
+    </p>
+  </div>
+  <div style="text-align: center; margin-left: 25px;">
+    <img src="assets/images/centerstageCODE.png" height="300">
+    <p style="margin-top: 5px; font-weight: bold; font-size: 16.5px;">
+      <a href="https://github.com/skandacode/FtcRobotController" style="text-decoration: underline; color: white;">Custom PID to Point Algorithm</a>
+    </p>
+  </div>
+</div>
+
+### Videos of our Robot
+[Maryland Tech Invitational Submission(Accepted)](https://www.youtube.com/watch?v=GI690EZx_BE)
 <br>
 
-![Centerstage Logo](assets/images/centerstagelogo.png){: .logo-image}
-
-![Centerstage Robot](<assets/images/centerstage bobit.jpg>){: .robot-image}
-
-We won our inter-league tournament, and won the motivate award (Helping others pursue STEM) in the regional competition. At the Texas State Championship we won the control award (Software algorithms), which qualified us to the World Championships. We qualified for the Maryland Tech Invitational in Johns Hopkins. 
-
-<br>
+### Season Accomplishments
+- We won our inter-league tournament, and won the motivate award (Helping others pursue STEM) in the regional competition
+- At the Texas State Championship we won the control award (Software algorithms) and qualified to the World Championships
+- We qualified for the Maryland Tech Invitational in the Johns Hopkins Applied Physics Laboratory
 
 
-**[Code for the season](https://github.com/skandacode/FtcRobotController)**
-
-**[MTI Submission](https://www.youtube.com/watch?v=GI690EZx_BE)**
-
-**[Onshape CAD Link](https://cad.onshape.com/documents/5072cf6460521fa37944e101/w/de839feb5dd34fbbbaa0c123/e/08065b1b154e35d30467b3fd)**
-
+<div style="text-align: center;">
+  <img src="assets/images/centerstage bobit.jpg" alt="Robot Picture" width="500"/>
+</div>
 
 <br>
+
+<!-- END OF CS -->
+<!-- END OF CS -->
+<!-- END OF CS -->
+<!-- END OF CS -->
+<!-- END OF CS -->
+<!-- END OF CS -->
+<!-- END OF CS -->
+<!-- END OF CS -->
+
+
+
 
 ---
 <br>
@@ -106,6 +149,16 @@ We won our inter-league tournament, and played the finals in the regional compet
 **[Behind the Bot Interview](https://www.youtube.com/watch?v=OdSXCAskOkE)**
 
 <br>
+
+
+<!-- END OF PP -->
+<!-- END OF PP -->
+<!-- END OF PP -->
+<!-- END OF PP -->
+<!-- END OF PP -->
+<!-- END OF PP -->
+<!-- END OF PP -->
+<!-- END OF PP -->
 
 ---
 
