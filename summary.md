@@ -43,7 +43,7 @@ Math Courses:
 - Intermediate Algebra
 - Calculus
 
-*Competition Preparation:*
+Competition Preparation:
 - ChemWoot
 - PhysicsWoot
 
