@@ -66,6 +66,8 @@ title: Competitive Robotics Achievements
   </tbody>
 </table>
 
+<br>
+
 ---
 
 ### **FIRST Tech Challenge Experience** 
