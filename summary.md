@@ -125,17 +125,6 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking. 
 
 *For complete robotics journey details and team achievements, see my [robotics page](robotics.md)*
 
-| Grade       | Season Name               | Program             | Role on the Team                                 |
-|-------------|---------------------------|----------------------|---------------------------------------------------|
-| 11th Grade  | Into The Deep (2024-2025) | FIRST Tech Challenge | Founder, Captain, Lead Designer & Programmer      |
-| 10th Grade  | CenterStage (2023-2024)   | FIRST Tech Challenge | Founder, Captain, Lead Designer & Programmer      |
-| 9th Grade   | PowerPlay (2022-2023)     | FIRST Tech Challenge | Founder, Captain, Lead Designer      |
-| 8th Grade   | Freight Frenzy (2021-2022)| FIRST Tech Challenge | Founder, Captain, Lead Designer & Programmer      |
-| 7th Grade   | Ultimate Goal (2020-2021) | FIRST Tech Challenge | Founder, Captain, Lead Designer & Programmer      |
-| 6th Grade   | City Shaper (2019-2020)   | FIRST Lego League    | Founder, Captain, Lead Designer & Programmer      |
-| 5th Grade   | Into Orbit (2018-2019)    | FIRST Lego League    | Founder, Captain, Lead Designer & Programmer      |
-| 4th Grade   | HydroDynamics (2017-2018) | FIRST Lego League    | Founder, Captain, Lead Designer & Programmer      |
-
 ### FIRST Tech Challenge (FTC) - Team Captain & Founder (2020-Present)
 
 - **2024-25 Season:** World Championship Division Winning Alliance Captain, #1 Texas ranking, #7 Global ranking and qualified for the Maryland Tech Invitational (MTI)
