@@ -66,6 +66,8 @@ title: Competitive Robotics Achievements
   </tbody>
 </table>
 
+---
+
 ### **FIRST Tech Challenge Experience** 
 Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the design and programming sub-teams.
 
