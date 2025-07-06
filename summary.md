@@ -16,9 +16,9 @@ title: Summary of Accomplishments
   - ACT: 36/36 (Perfect Superscore)
 - **Recognition:** AP Scholar with Distinction
 
-### Advanced Coursework
+### College-level Coursework
 
-**AP Classes & UT OnRamps Dual Enrollment:**
+**AP Classes & UT OnRamps:**
 - AP Biology (Score: 5, Grade 9)
 - AP Human Geography (Score: 4, Grade 9)
 - AP Chemistry (Score: 5, Grade 10)
@@ -31,8 +31,8 @@ title: Summary of Accomplishments
 - AP Computer Science A (Grade 11)
 - AP Environmental Science (Grade 11)
 - AP English 3 (Grade 11)
-- AP Calculus BC (Grade 12)
-- AP Physics C: Mechanics and Electricity & Magnetism (Self-Study, Grade 12)
+- AP Calculus BC (Grade 11)
+- AP Physics C: Mechanics and Electricity & Magnetism (Self-Study, Grade 11)
 
 **Art of Problem Solving Courses:**
 
