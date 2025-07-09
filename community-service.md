@@ -16,10 +16,7 @@ title: Community Service
 
 **Specific Events:**
 - **Northside Library STEM Fair** - Hours Spent: 5; People Impacted: 1,500
-- **Clay All Parent Robotics Night** - Hours Spent: 2; People Impacted: 25
 - **Genesis Women's Shelter** - Hours Spent: 5; People Impacted: 25
-- **Preschool FLL Intro** - Hours Spent: 3; People Impacted: 100
-- **Clara Love Elementary** - Hours Spent: 4; People Impacted: 100
 - **Open House at Community Center** - Hours Spent: 8; People Impacted: 1,000
 - **North Texas Food Bank** - Hours Spent: 3; People Impacted: 30
 - **Texas Instruments Bring Your Kids to Work** - Hours Spent: 4; People Impacted: 2,000
@@ -43,8 +40,9 @@ These are just some of the events that I have conducted. Most of these were orga
 **Primary Robotics and CAD Instructor** - Taught comprehensive robotics programs focusing on developing the skills necessary for competitive robotics.
 
 **Program Scale and Impact:**
-- Taught over 200 students across grades 3-10 in competitive robotics and computer-aided design
-- Raised over $8,000 annually through structured weekly educational programs
+- Taught over 130 students across grades 3-10 in competitive robotics and computer-aided design
+- Raised over $10,000 annually through structured weekly robotics classes
+- Around $30,000 went back to the community center
 - Collaborated with FTC teams within DFW and globally to share knowledge and present at conferences
 - Helped transform local community center into a hub of STEM learning
 - Many students have continued STEM education and joined or started robotics teams
@@ -53,7 +51,7 @@ These are just some of the events that I have conducted. Most of these were orga
 - **Beginner Robotics Classes:** One-hour Saturday classes covering mechanical systems (gears, motors), basic programming concepts, and robot movement and control, held weekly for 3.5 years
 - **Intermediate Classes:** FIRST Lego League (FLL) preparation focusing on modular attachments, programming, and presentation skills, held weekly for 3.5 years
 - **CAD Classes:** Taught OnShape computer-aided design to 20 students covering part studios and assemblies for FIRST Tech Challenge participation weekly for 2 years
-- **Summer Advanced Classes:** 2.5 hour long classes designed to teach all technical aspects of FTC, like building, CAD, and programming, held every week for the entire summer
+- **Summer Advanced FTC Classes:** 2.5 hour long classes designed to teach all technical aspects of FTC, like building, CAD, and programming, held every week for the summer
 - **Learning over multiple years:** Wide range of classes for different age groups, allowing students to advance through different levels over multiple years
 
 ### Knowledge Sharing & Collaboration
@@ -92,7 +90,7 @@ Start and mentor FLL and FTC teams with emphasis on FIRST values and seasonal co
 - **27117 - Byte Size Lions, Dallas, TX** - 15hrs
 
 **Local Team Development:**
-- Mentored students by sharing my expertise and experience. They work on an extremely limited budget but did great this season. Helped their FRC team win their first medal.
+- Mentored students in my brother's high school by sharing my expertise and experience. They work on an extremely limited budget but did great this season. Helped their FRC team win their first medal as part of the finalist alliance.
 
 - **Our Proudest Moment** - Team 23870 - RoboAvengers is a team in Michigan that we started coaching this year. We reviewed their autonomous code and shared our Git Repository. They were the Winning Alliance Captain and Inspire Winner at their Qualifiers this season.
 

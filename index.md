@@ -17,7 +17,7 @@ I have high standardized test scores, including a superscore of 36 out of 36 on 
 
 - Part of the only high school team presenting at international engineering conferences with 3 published papers
 - World Championship Division Winner, #1 Texas, founded and coached 22+ teams
-- Taught 200+ students, generated $8,000+ annually through teaching robotics
+- Taught 130+ students, generated $12,000+ annually through teaching robotics for a total of $30,000
 - 9 years competitive robotics, professional internships, USACO Silver level programmer, USAPhO qualifier
 
 ## Personal Philosophy

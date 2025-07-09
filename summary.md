@@ -136,10 +136,10 @@ Raspberry Pi-based environmental monitoring solution for global cargo tracking. 
 - Multiple #1 rankings at all levels in North Texas
 
 ### Spreading Awareness of STEM
-- Generated $8,000+ annually through educational programs
+- Generated $12,000+ annually through robotics classes, with a total of $30,000 going back into the community center
 - Transformed local community center into recognized STEM learning hub
 - Mentored teams across multiple countries and regions
-- Founded and coached 22+ competitive robotics teams, taught 150+ students
+- Founded and coached 22+ competitive robotics teams, taught 130+ students
 
 ## Cultural Heritage
 
