@@ -230,11 +230,6 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 [Maryland Tech Invitational Submission](https://www.youtube.com/watch?v=8cJn8f_Pyw0)
 <br>
 
-
-<div style="text-align: center;">
-  <img src="assets/images/powerplayrobot.jpg" alt="Robot Picture" width="500"/>
-</div>
-
 ### Season Accomplishments
 - We won our inter-league tournament, and played the finals in the regional competition 
 - We ranked 1st at the Texas State Championship, and won the event, placing us first in about 800 teams
@@ -242,6 +237,9 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 - Qualified for the Maryland Tech Invitational in Johns Hopkins and had the most consistent autonomous in the entire event.  
 
 
+<div style="text-align: center;">
+  <img src="assets/images/powerplayrobot.jpg" alt="Robot Picture" width="500"/>
+</div>
 
 
 <br>
