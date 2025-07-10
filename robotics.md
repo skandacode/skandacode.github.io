@@ -200,7 +200,7 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 
 
 
-<h2>2022-2023 PowerPlay <img src="assets/images/powerplaylogo.jpg" height="12" style="vertical-align: middle; display: inline;"></h2>
+<h2>2022-2023 PowerPlay <img src="assets/images/powerpla  ylogo.jpg" height="12" style="vertical-align: middle; display: inline;"></h2>
 
 ### Robot Design
  - Uses claw to pick up cones from around the field
@@ -238,7 +238,7 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 
 
 <div style="text-align: center;">
-  <img src="assets/images/powerplay robot states.JPG" alt="Robot Picture" width="500"/>
+  <img src="assets/images/powerplayrobot.JPG" alt="Robot Picture" width="500"/>
 </div>
 
 
