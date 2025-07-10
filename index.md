@@ -26,7 +26,7 @@ I believe that access to STEM and robotics shouldn’t be limited to a select fe
 
 In addition to my academics, I connect technical, hands-on work with a real-world impact. I’m always focused on helping others grow through hands-on learning, shared knowledge, and mentorship, whether it’s mentoring students or working on research projects. My goal isn’t just to push the boundaries of what I can achieve, but to make sure others can come along for the journey too.
 
-Beyond STEM, I maintain connections to my cultural heritage through South Indian classical Carnatic music. I have recieved a $4000 grant to pursue singing, and gave a performance singing songs from different composers and explaining the meaning and context behind each of those songs. 
+Beyond STEM, I maintain connections to my cultural heritage through South Indian classical Carnatic music. I have received a $4000 grant to pursue singing, and gave a performance singing songs from different composers and explaining the meaning and context behind each of those songs. 
 
 
 <br>

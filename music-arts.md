@@ -20,4 +20,4 @@ Contributing to preservation of ancient musical traditions through performance a
 ## Western Classical Music (2019-Present)
 
 ### Symphonic Orchestra
-**Highest school orchestra** - RL Turner High School Symphonic Orchestra, the school's highest-level ensemble for the part 4 years. I was also part of the Symphonic orchestra in middle school. 
+**Highest school orchestra** - RL Turner High School Symphonic Orchestra, the school's highest-level ensemble for the part 4 years. I was also part of the Symphonic orchestra in middle school. I play the violin. 

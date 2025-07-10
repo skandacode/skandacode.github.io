@@ -19,7 +19,7 @@ title: Academic Competitions
 
 ## Hackathons & Programming Contests
 
-### Battle of Brains Hackathon Dallas
+### Battle of the Brains Hackathon at UT Dallas
 - **2024:** Ranked 4th place among Dallas area competitors
 - **2023:** Ranked 6th place among Dallas area competitors
 
