@@ -5,11 +5,36 @@ title: Projects
 
 *For an overview of my project descriptions, see my [complete resume](resume.md). For research publications and work experience, see my [research & experience page](research-experience.md)*
 
+## Netra Health Venture Capitalist Firm
+
+### **Electrocardiogram Analysis Tool for Early Detection of Cardiac Events**
+
+- Wrote a Python script that analyzed the ECG signal and detects when cardiac events are likely
+- Finds R-Peaks and calculates the HRV
+- When the HRV drops below a predetermined threshold, we can flag the data as high risk
+- This code is able to generalize to multiple monitors, scales, and sampling rates
+- I compared the result with data from a healthy to an unhealthy person and was able to find appropriate thresholds
+- I can also detect when cardiac events are currently happening
+- One version of the code runs efficiently using vectorizedd operations and another operates in a streaming manner. The code that is streaming still executes at around 3000x real time
+
+[Code for the project](https://github.com/skandacode/ecg-wave-delineation-visualizer)
+
+
+![Healthy data](assets\images\healthyhrvdata.png){: .project-image}
+*This shows healthy data. There is no shading, showing a healthy individual*
+
+![Unhealthy data](assets\images\unhealthydata.png){: .project-image}
+*This shows unhealthy data. As you can see, areas under high risk are shown in blue.*
+
+
+
 ## **Space-Related R&D**
 
 ### **NASA HUNCH Micro-Rover Development** (2024-2025)
 *Captain, Lead Designer, Builder, and Programmer*
-##### **Features:**
+
+#### **Features:**
+
 - **Body** - The lunar regolith is abrasive, so we made the entire body of the rover out of 1/16" aluminum. By covering every hole, we made sure to completely isolate the electronics from the regolith. 
 - **Dual Control Systems** - The rover can be controlled through either a remote control or computer-based radio command interface. The rover can be controlled through both a Bluetooth Low Energy connected controller, or autonomously controlled through Long Range Radio at the 915Mhz frequency. Commands consist of Python code which is executed on the rover. 
 - **Wireless image capture and transmission** - Uses a high resolution camera in the M5 Stack Camera X to capture photos, and uses the built in ESP 32 as a Wifi Access point to send the images to a computer
@@ -46,7 +71,7 @@ The satellite uses computer vision algorithms to detect and predict wildfire mov
 
 [Github link to all models](https://github.com/Robotics4Everyone/Model-Library/branches/all)
 
-![Robotics for Everyone robot](assets\images\roboticsforeveyone.png)
+![Robotics for Everyone robot](assets\images\roboticsforeveyone.png){: .project-image}
 
 ## **Application Development**
 
