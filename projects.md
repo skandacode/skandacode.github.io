@@ -32,6 +32,22 @@ The satellite uses computer vision algorithms to detect and predict wildfire mov
   The CubeSat maps regions that are susceptible to mudslides by using machine learning, and alerting ground station if any new mudslides have been detected. 
   ![2024 Cubesat Picture](assets/images/cubesat2024.png){: .project-image}
 
+## **Robotics for Everyone Initiative**
+
+### **Open-sourced library of 3D printable and laser cuttable parts**
+- Developed a robotics kit that uses 3D printed and laser cut parts to reduce the cost of a robotics kit
+- 3D printing is relatively cheap, and anyone can get access to them at their local library
+- Laser cutted parts can be mass produced at scale, resulting in reduced costs
+- This means that our build kit is significantly cheaper than stock alternatives
+- We were able to reduce the cost of the robotics kit from **\$1000** to **\$150** while still providing the same educational benefits
+- The purpose of this initiative was to increase accessibility of robotics kits in classrooms around the world
+
+[Link to all of our CAD models](https://www.roboticsforeveryone.org/models)
+
+[Github link to all models](https://github.com/Robotics4Everyone/Model-Library/branches/all)
+
+![Robotics for Everyone robot](assets\images\roboticsforeveyone.png)
+
 ## **Application Development**
 
 ### **Technocise Exercise Tracking Platform**
