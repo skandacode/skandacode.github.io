@@ -197,24 +197,52 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 
 
 ---
+
+
+
+<h2>2022-2023 PowerPlay <img src="assets/images/powerplaylogo.jpg" height="12" style="vertical-align: middle; display: inline;"></h2>
+
+### Robot Design
+ - Uses claw to pick up cones from around the field
+ - GoBilda mecanum drivetrain
+ - Used a turret to place cones on poles without the drivetrain moving
+ - Utilized 2 linear extensions: one on deposit, and one to intake/grab cones
+ <br>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="text-align: center; margin-right: 25px;">
+    <img src="assets/images/powerplayCAD.png" height="300">
+    <p style="margin-top: 5px; font-weight: bold; font-size: 16.5px;">
+      <a href="https://cad.onshape.com/documents/288e89c18509a727f1205886/w/46e4bd9e22bcdb76eeab36f1/e/b96b06baa33383b45269c222?renderMode=0&uiState=686f1cdaa4591c12768a4bea" style="text-decoration: underline; color: white;">Robot CAD Design</a>
+    </p>
+  </div>
+  <div style="text-align: center; margin-left: 25px;">
+    <img src="assets/images/powerplayCODE.png" height="300">
+    <p style="margin-top: 5px; font-weight: bold; font-size: 16.5px;">
+      <a href="https://github.com/Arav-R/18270-PowerPlay" style="text-decoration: underline; color: white;">Autonomous State Machine Code</a>
+    </p>
+  </div>
+</div>
+
+### Videos of our Robot
+ [Interview with FUN Robotics Network](https://www.youtube.com/watch?v=OdSXCAskOkE)
+ <br>
+[Maryland Tech Invitational Submission](https://www.youtube.com/watch?v=8cJn8f_Pyw0)
 <br>
 
-![Powerplay Logo](assets/images/powerplaylogo.jpg){: .logo-image}
-
-![Bot picture](<assets/images/powerplay robot states.jpg>){: .robot-image}
-
-
-We won our inter-league tournament, and played the finals in the regional competition. We ranked 1st at the Texas State Championship, and won the event, placing us first in about 800 teams. We also placed 5th in our division at the World Championship. We qualified for the Maryland Tech Invitational in Johns Hopkins and had the most consistent autonomous in the entire event.  
-
-<br>
+### Season Accomplishments
+- We won our inter-league tournament, and played the finals in the regional competition 
+- We ranked 1st at the Texas State Championship, and won the event, placing us first in about 800 teams
+- Placed 5th in our division at the World Championship
+- Qualified for the Maryland Tech Invitational in Johns Hopkins and had the most consistent autonomous in the entire event.  
 
 
-**[MTI Submission](https://www.youtube.com/watch?v=8cJn8f_Pyw0)**
+<div style="text-align: center;">
+  <img src="assets/images/powerplay robot states.JPG" alt="Robot Picture" width="500"/>
+</div>
 
-**[Behind the Bot Interview](https://www.youtube.com/watch?v=OdSXCAskOkE)**
 
 <br>
-
 
 <!-- END OF PP -->
 <!-- END OF PP -->
