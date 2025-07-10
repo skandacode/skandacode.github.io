@@ -238,7 +238,7 @@ Founder and Captain of FIRST Tech Challenge Team 18270 RoboPlayers. I led the de
 
 
 <div style="text-align: center;">
-  <img src="assets/images/powerplayrobot.JPG" alt="Robot Picture" width="500"/>
+  <img src="assets/images/powerplayrobot.jpg" alt="Robot Picture" width="500"/>
 </div>
 
 
