@@ -22,7 +22,7 @@ title: Community Service
 - **Texas Instruments Bring Your Kids to Work** - Hours Spent: 4; People Impacted: 2,000
 - **Robotics Booth at Community Center** - Hours Spent: 2; People Impacted: 30
 - **Robot Petting Zoo** - Hours Spent: 3; People Impacted: 500
-- **Dallas AI Conference** - Hours Spent: 2; People Impacted: 50
+- **Dallas AI Conference** - Hours Spent: 2; People Impacted: 50; Total people in the organization: 8,000
 
 These are just some of the events that I have conducted. Most of these were organized by me, and not as part of a bigger event. 
 
