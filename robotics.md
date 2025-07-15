@@ -41,7 +41,7 @@ title: Competitive Robotics Achievements
       <td style="padding: 8px;">8</td>
       <td style="padding: 8px;">2021-2022</td>
       <td style="padding: 8px;">Freight Frenzy (FTC)</td>
-      <td style="padding: 8px;">Part of the Winning Alliance in our first ever in-person Regional Championship</td>
+      <td style="padding: 8px;">Winning Alliance in our first ever in-person Regional Championship</td>
       <td style="padding: 8px;">Captain, Design Lead, Build Lead, Software Lead</td>
     </tr>
     <tr>
