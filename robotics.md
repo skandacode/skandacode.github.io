@@ -49,7 +49,7 @@ title: Competitive Robotics Achievements
       <td style="padding: 8px;">2020-2021</td>
       <td style="padding: 8px;">Ultimate Goal (FTC)</td>
       <td style="padding: 8px;">In our rookie season, we won the first place Think Award and qualified for the Regional Championship</td>
-      <td style="padding: 8px;">Captain, Design Lead, Build Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Founder, Captain, Design Lead, Build Lead, Software Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">6</td>
@@ -70,7 +70,14 @@ title: Competitive Robotics Achievements
       <td style="padding: 8px;">2017-2018</td>
       <td style="padding: 8px;">Hydrodynamics (FLL)</td>
       <td style="padding: 8px;">As a rookie team, we advanced to the World Championships representing North Texas</td>
-      <td style="padding: 8px;">Captain, Build Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Founder, Captain, Build Lead, Software Lead</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">2</td>
+      <td style="padding: 8px;">2015-2016</td>
+      <td style="padding: 8px;">Trash Trek (Junior FLL)</td>
+      <td style="padding: 8px;">Won the Rising Stars award at North Texas Regional Championship</td>
+      <td style="padding: 8px;">Partnered with my younger brother as a 2 member team</td>
     </tr>
   </tbody>
 </table>
