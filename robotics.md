@@ -11,6 +11,7 @@ title: Competitive Robotics Achievements
       <th style="padding: 8px; text-align: center;">Grade</th>
       <th style="padding: 8px; text-align: center;">Year</th>
       <th style="padding: 8px; text-align: center;">FIRST Season</th>
+      <th style="padding: 8px; text-align: center;">Key Accomplishments</th>
       <th style="padding: 8px; text-align: center;">Role</th>
     </tr>
   </thead>
@@ -19,48 +20,56 @@ title: Competitive Robotics Achievements
       <td style="padding: 8px;">11</td>
       <td style="padding: 8px;">2024-2025</td>
       <td style="padding: 8px;">Into the Deep (FTC)</td>
-      <td style="padding: 8px;">Captain, Design Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Divisional Winning Alliance Captain at World Championship</td>
+      <td style="padding: 8px;">Captain, Design Lead, Software Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">10</td>
       <td style="padding: 8px;">2023-2024</td>
       <td style="padding: 8px;">CenterStage (FTC)</td>
-      <td style="padding: 8px;">Captain, Design Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Control(Software) Award Winner at Texas State Championship</td>
+      <td style="padding: 8px;">Captain, Design Lead, Software Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">9</td>
       <td style="padding: 8px;">2022-2023</td>
       <td style="padding: 8px;">PowerPlay (FTC)</td>
-      <td style="padding: 8px;">Captain, Design Lead, Build Lead, Software Co-Lead, Founder</td>
+      <td style="padding: 8px;">Winning Alliance Captain of Texas State Championship</td>
+      <td style="padding: 8px;">Captain, Design Lead, Build Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">8</td>
       <td style="padding: 8px;">2021-2022</td>
       <td style="padding: 8px;">Freight Frenzy (FTC)</td>
-      <td style="padding: 8px;">Captain, Design Lead, Build Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Part of the Winning Alliance in our first ever in-person Regional Championship</td>
+      <td style="padding: 8px;">Captain, Design Lead, Build Lead, Software Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">7</td>
       <td style="padding: 8px;">2020-2021</td>
       <td style="padding: 8px;">Ultimate Goal (FTC)</td>
+      <td style="padding: 8px;">In our rookie season, we won the first place Think Award and qualified for the Regional Championship</td>
       <td style="padding: 8px;">Captain, Design Lead, Build Lead, Software Lead, Founder</td>
     </tr>
     <tr>
       <td style="padding: 8px;">6</td>
       <td style="padding: 8px;">2019-2020</td>
       <td style="padding: 8px;">City Shaper (FLL)</td>
-      <td style="padding: 8px;">Captain, Build Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Won the top award for Mechanical Design and selected to compete at an invitational at Myrtle Beach, South Carolina</td>
+      <td style="padding: 8px;">Captain, Build Lead, Software Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">5</td>
       <td style="padding: 8px;">2018-2019</td>
       <td style="padding: 8px;">Into Orbit (FLL)</td>
-      <td style="padding: 8px;">Captain, Build Lead, Software Lead, Founder</td>
+      <td style="padding: 8px;">Top scoring robot at multiple qualifiers in North Texas</td>
+      <td style="padding: 8px;">Captain, Build Lead, Software Lead</td>
     </tr>
     <tr>
       <td style="padding: 8px;">4</td>
       <td style="padding: 8px;">2017-2018</td>
       <td style="padding: 8px;">Hydrodynamics (FLL)</td>
+      <td style="padding: 8px;">As a rookie team, we advanced to the World Championships representing North Texas</td>
       <td style="padding: 8px;">Captain, Build Lead, Software Lead, Founder</td>
     </tr>
   </tbody>
