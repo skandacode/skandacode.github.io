@@ -48,7 +48,7 @@ title: Competitive Robotics Achievements
       <td style="padding: 8px;">7</td>
       <td style="padding: 8px;">2020-2021</td>
       <td style="padding: 8px;">Ultimate Goal (FTC)</td>
-      <td style="padding: 8px;">In our rookie season, we won the first place Think Award and qualified for the Regional Championship</td>
+      <td style="padding: 8px;">As a rookie team, we won the first place Think Award and qualified for the Regional Championship</td>
       <td style="padding: 8px;">Founder, Captain, Design Lead, Build Lead, Software Lead</td>
     </tr>
     <tr>

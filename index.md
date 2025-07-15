@@ -4,14 +4,11 @@ title: Home
 ---
 
 # Arun 'Skanda' Rebbapragada
-
+## About Me
 I am currently a senior at RL Turner High School in Carrollton, TX, ranking 2nd out of 500 students (top 1% of my class). I strive to not only have a solid academic performance, but to have an effect on the real world. I have presented at international conferences, published several papers, and spread awareness of robotics and STEM around the world.
+I have high standardized test scores, including a superscore of 36 out of 36 on the ACT and 1520 out of 1520 on the PSAT. I also received the AP Scholar with Distinction recognition. I combine strong academics with hands-on engineering and research experiences.
 
 ![Profile Picture](assets/images/frontpagepicture.png){: .profile-image}
-
-## About Me
-
-I have high standardized test scores, including a superscore of 36 out of 36 on the ACT and 1520 out of 1520 on the PSAT. I also received the AP Scholar with Distinction recognition. I combine strong academics with hands-on engineering and research experiences.
 
 ## What Makes Me Unique
 
