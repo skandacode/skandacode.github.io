@@ -8,11 +8,11 @@ title: Competitive Robotics Achievements
 <table style="width: 100%; text-align: center; border-collapse: collapse; margin-top: 10px;">
   <thead>
     <tr>
-      <th style="padding: 8px; text-align: center;">Grade</th>
-      <th style="padding: 8px; text-align: center;">Year</th>
-      <th style="padding: 8px; text-align: center;">FIRST Season</th>
-      <th style="padding: 8px; text-align: center;">Key Accomplishments</th>
-      <th style="padding: 8px; text-align: center;">Role</th>
+      <th style="width:5%; padding: 8px; text-align: center;">Grade</th>
+      <th style="width:14%;padding: 8px; text-align: center;">Year</th>
+      <th style="width:18%;padding: 8px; text-align: center;">FIRST Season</th>
+      <th style="width:33%;padding: 8px; text-align: center;">Key Accomplishments</th>
+      <th style="width:30%;padding: 8px; text-align: center;">Role</th>
     </tr>
   </thead>
   <tbody>
