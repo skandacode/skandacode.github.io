@@ -3,28 +3,49 @@ layout: page
 title: Projects
 ---
 
+
 *For an overview of my project descriptions, see my [complete resume](resume.md). For research publications and work experience, see my [research & experience page](research-experience.md)*
 
 ## Netra Health Venture Capitalist Firm
 
 ### **Electrocardiogram Analysis Tool for Early Detection of Cardiac Events**
+*Conducted novel, independent research in collaboration with Netra Health Venture Capitalist Firm*
 
+<span style="font-size: 16px; font-weight: bold;;color:#03dac6">Details</span>
 - Wrote a Python script that analyzed the ECG signal and detects when cardiac events are likely
 - Finds R-Peaks and calculates the HRV
 - When the HRV drops below a predetermined threshold, we can flag the data as high risk
 - This code is able to generalize to multiple monitors, scales, and sampling rates
-- I compared the result with data from a healthy to an unhealthy person and was able to find appropriate thresholds
-- I can also detect when cardiac events are currently happening
-- One version of the code runs efficiently using vectorizedd operations and another operates in a streaming manner. The code that is streaming still executes at around 3000x real time
+- Compares the result with data from a healthy to an unhealthy person and was able to find appropriate thresholds
+
+<br>
+
+<span style="font-size: 16px; font-weight: bold; color:#03dac6">Impact</span>
+
+ - Able to dectect heart failures, cardiac arrests, or other heart problems hours before the events take place
+ - WRITE SOMETHING ELSE HERE 
+
+<br>
 
 [Code for the project](https://github.com/skandacode/ecg-wave-delineation-visualizer)
 
 
-![Healthy data](assets\images\healthyhrvdata.png){: .project-image}
-*This shows healthy data. There is no shading, showing a healthy individual*
 
-![Unhealthy data](assets\images\unhealthydata.png){: .project-image}
-*This shows unhealthy data. As you can see, areas under high risk are shown in blue.*
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="text-align: center; margin-right: 25px;">
+    <img src="assets\images\healthyhrvdata.png" height="300">
+    <p style="margin-top: 5px; font-size: 14px;">
+    This shows healthy data. There is no shading, showing a healthy individual
+    </p>
+  </div>
+  <div style="text-align: center; margin-left: 25px;">
+  <img src="assets/images/unhealthydata.png" height="300">
+  <p style="margin-top: 5px; font-size: 14px;">
+    This shows unhealthy data. The areas under high risk are shown in blue
+  </p>
+</div>
+</div>
+
 
 
 
@@ -33,27 +54,54 @@ title: Projects
 ### **NASA HUNCH Micro-Rover Development** (2024-2025)
 *Captain, Lead Designer, Builder, and Programmer*
 
-#### **Features:**
+<span style="font-size: 16px; font-weight: bold;;color:#03dac6">Details</span>
 
-- **Body** - The lunar regolith is abrasive, so we made the entire body of the rover out of 1/16" aluminum. By covering every hole, we made sure to completely isolate the electronics from the regolith. 
-- **Dual Control Systems** - The rover can be controlled through either a remote control or computer-based radio command interface. The rover can be controlled through both a Bluetooth Low Energy connected controller, or autonomously controlled through Long Range Radio at the 915Mhz frequency. Commands consist of Python code which is executed on the rover. 
-- **Wireless image capture and transmission** - Uses a high resolution camera in the M5 Stack Camera X to capture photos, and uses the built in ESP 32 as a Wifi Access point to send the images to a computer
-- **Wireless Software Updates** - Over-the-air programming system. Our rover is capable of executing python code that was transmitted over the radio. Because of this, we are able to edit files on the rover, which allows us to make software updates without even taking the rover apart. This system was inspired by the Ingenuity mission in Mars. 
+
+- The lunar regolith is abrasive, so we made the entire body of the rover out of 1/16" aluminum
+- The rover can be controlled through either a remote control or computer-based radio command interface. 
+- Uses a high resolution camera in the M5 Stack Camera X to capture photos, and uses the built in ESP 32 as a Wifi Access point to send the images to a computer
+
+<span style="font-size: 16px; font-weight: bold; color:#03dac6">Impact</span>
+
+ - Presented to NASA engineers and received direct feedback on rover design
+ - Pitched project during two formal presentations
+
+<br>
   
-    **[Link to website](https://sites.google.com/cfbmail.com/nasa-hunch-lunar-rover/designs)**
+[Link to website](https://sites.google.com/cfbmail.com/nasa-hunch-lunar-rover/designs)
     
-    **[Link to latest CAD Model](https://cad.onshape.com/documents/b768e7ff74cb64a2bd957713/w/f866da644b5ce7340ff3ff36/e/6890e63dd318aa4fd2992dfc)**
+[Link to latest CAD Model](https://cad.onshape.com/documents/b768e7ff74cb64a2bd957713/w/f866da644b5ce7340ff3ff36/e/6890e63dd318aa4fd2992dfc)
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="text-align: center">
+    <img src="assets\images\rover.png" height="400">
+    <p style="margin-top: 5px; font-size: 14px;">
+    Final iteration of NASA Micro-Rover
+    </p>
+  </div>
+</div>
 
 ### **CubeSat Development Projects**
-**MIT Beaver Works Summer Institute - Build a CubeSat Challenge**
-- **Wildfire Tracking and Prediction from Space** (2024-2025) 
+*MIT Beaver Works Summer Institute - Build a CubeSat Challenge*
+- **Wildfire Tracking and Prediction from Space** (2024-2025) - 
 The satellite uses computer vision algorithms to detect and predict wildfire movement from space using satellites. Used a color thresholding and contour detection to detect where the wildfires are, and used data from multiple passes to show fire spread. Then, the program makes predictions on where the fire will spread next. 
 
-  **[Link to Cubesat CAD Model](https://cad.onshape.com/documents/659f951b2f3d6802c7789cdf/w/b8b9c379a43547fd131a2233/e/30e1710706289f5d181ec25f)**
-  ![Fire Spreading tracking over time](assets/images/cubesatsoftwaredemo.png){: .demo-image}
-  *The fire spread in the order of the white contour, the red contour, the blue, green, and finally yellow. The arrows show the direction of motion of the fire.*
+ <p>
+  <a href="https://cad.onshape.com/documents/659f951b2f3d6802c7789cdf/w/b8b9c379a43547fd131a2233/e/30e1710706289f5d181ec25f">
+    Link to Cubesat CAD Model
+  </a>
+</p>
 
-- **Mudslide Detection and Impact Assessment** (2023-2024) 
+<div style="text-align: center;">
+  <img src="assets/images/cubesatsoftwaredemo.png" alt="Fire Spreading tracking over time" height="300">
+  <p style="font-size: 14px; margin-top: 5px;">
+    <em>The fire spread in the order of the white contour, the red contour, the blue, green, and finally yellow. The arrows show the direction of motion of the fire.</em>
+  </p>
+</div>
+
+<br>
+
+- **Mudslide Detection and Impact Assessment** (2023-2024) - 
   The CubeSat maps regions that are susceptible to mudslides by using machine learning, and alerting ground station if any new mudslides have been detected. 
   ![2024 Cubesat Picture](assets/images/cubesat2024.png){: .project-image}
 
