@@ -77,13 +77,12 @@ title: Projects
     
 [Link to latest CAD Model](https://cad.onshape.com/documents/b768e7ff74cb64a2bd957713/w/f866da644b5ce7340ff3ff36/e/6890e63dd318aa4fd2992dfc)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="text-align: center">
-    <img src="assets\images\rover.png" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">
-    Final iteration of NASA Micro-Rover
-    </p>
-  </div>
+
+<div style="text-align: center;">
+  <img src="assets/images/rover.png" alt="Final iteration of NASA Micro-Rover" height="300">
+  <p style="font-size: 14px; margin-top: 5px;">
+    <em>Final iteration of NASA Micro-Rover</em>
+  </p>
 </div>
 
 ### **CubeSat Development Projects**
