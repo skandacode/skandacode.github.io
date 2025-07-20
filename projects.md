@@ -11,6 +11,8 @@ title: Projects
 ### **Electrocardiogram Analysis Tool for Early Detection of Cardiac Events**
 *Conducted novel, independent research in collaboration with Netra Health Venture Capitalist Firm*
 
+<br>
+
 <span style="font-size: 16px; font-weight: bold;;color:#03dac6">Details</span>
 - Wrote a Python script that analyzed the ECG signal and detects when cardiac events are likely
 - Finds R-Peaks and calculates the HRV
@@ -52,7 +54,10 @@ title: Projects
 ## **Space-Related R&D**
 
 ### **NASA HUNCH Micro-Rover Development** (2024-2025)
+
 *Captain, Lead Designer, Builder, and Programmer*
+
+<br>
 
 <span style="font-size: 16px; font-weight: bold;;color:#03dac6">Details</span>
 
